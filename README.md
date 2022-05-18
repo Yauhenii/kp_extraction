@@ -25,3 +25,5 @@ https://github.com/IBM/KPA_2021_shared_task
 # Pegasus abstractive summarization example
 
 ![Pegasus](images/pegasus_example.png)
+
+https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html
