@@ -20,4 +20,8 @@ https://github.com/IBM/KPA_2021_shared_task
 4) No generation description in the article
 
 # Generation overlook
-![KP generation](generation.drawio.png)
+![KP generation](images/generation.drawio.png)
+
+# Pegasus abstractive summarization example
+
+![Pegasus](images/pegasus_example.png)
