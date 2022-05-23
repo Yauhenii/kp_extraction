@@ -3,3 +3,4 @@ model/*
 !model/README.md
 .vscode
 .venv
+__pycache__
