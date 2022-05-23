@@ -2,4 +2,4 @@
 
 **generate_kp.py** file with **generate_kp(...)** function 
 
-See 'notebooks/kp_generation_script_test/kp_generation_script_test.ipynb' for example
+See 'notebooks/local/kp_generation_script_test/kp_generation_script_test.ipynb' for example
