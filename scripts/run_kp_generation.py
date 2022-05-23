@@ -6,7 +6,7 @@ from transformers import PegasusTokenizer, PegasusForConditionalGeneration
 
 from generate_kp import generate_kp
 
-device = "gpu" if torch.cuda.is_available() else "cpu"
+device = "cuda" if torch.cuda.is_available() else "cpu"
 
 
 def main(argv: List[str], arc: int) -> None:

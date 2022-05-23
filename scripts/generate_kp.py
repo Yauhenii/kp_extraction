@@ -36,6 +36,8 @@ def generate_kp(
     curr_batch_size = 0
     targets = []
 
+    model.to(device)
+
     with torch.no_grad():
         for batch_id in range(batch_count):
             if (batch_id + 1) * batch_size > features_count:
