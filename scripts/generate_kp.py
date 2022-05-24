@@ -31,7 +31,7 @@ def generate_kp(
 
     features = list(feature_df["feature"])
     features_count = len(features)
-    batch_count = features_count // batch_size + features_count % batch_size
+    batch_count = features_count // batch_size + 1 if (features_count % batch_size)!=0 else 0
 
     curr_batch_size = 0
     targets = []
