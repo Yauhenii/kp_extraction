@@ -1,0 +1,6 @@
+# @package task
+defaults:
+  - /task/default
+  - /backbone@_group_: default # use AutoModel backbone by default
+  - override /dataset@_group_: default
+backbone: ${backbone}

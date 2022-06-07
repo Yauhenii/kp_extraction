@@ -1,0 +1,4 @@
+# @package task
+defaults:
+  - baselines/default
+_target_: project.models.baselines.classification_model.ClassificationModel

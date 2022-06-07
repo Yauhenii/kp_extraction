@@ -1,0 +1,29 @@
+# local package
+-e .
+
+# external requirements
+pandas
+numpy
+matplotlib
+seaborn
+click
+Sphinx
+coverage
+awscli
+flake8
+sklearn
+transformers
+neptune-client
+torch==1.10.1+cu113
+torchvision==0.11.2+cu113
+torchaudio==0.10.1+cu113
+scikit-plot
+hydra-core>=1.1.0
+tqdm
+python-dotenv>=0.5.1
+pytorch-lightning>=1.5.7
+py-rouge
+nltk
+
+# backwards compatibility
+pathlib2

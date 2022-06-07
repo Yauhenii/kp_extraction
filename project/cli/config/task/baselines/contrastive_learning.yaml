@@ -1,0 +1,9 @@
+# @package task
+defaults:
+  - baselines/default
+_target_: project.models.baselines.contrastive_model.ContrastiveModel
+
+cfg:
+  margin: 0.5
+  threshold: 0.5
+  distance_fnc: "cosine"

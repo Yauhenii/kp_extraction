@@ -1,0 +1,5 @@
+# @package backbone
+defaults:
+  - /tokenizer@_group_: autotokenizer # use AutoTokenizer by default
+# any general backbone settings
+sentence_embeddings: True

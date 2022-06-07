@@ -1,0 +1,12 @@
+# @package dataset
+defaults:
+  - datasets/default
+_target_: project.data.nlp_data_module.NLPDataModule
+cfg:
+  # torch data-loader specific arguments
+  dataset_name: 'ARG_KP_2021'
+  train_file: '../../data/processed/ARG_KP_2021/all_complete.csv'
+  validation_file: null
+  test_file: '../../data/processed/ARG_KP_2021/test_complete.csv'
+  train_val_split: 0.1
+  preprocessing_num_workers: 1

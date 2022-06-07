@@ -1,0 +1,4 @@
+# @package backbone
+defaults:
+  - default
+pretrained_model_name_or_path: 'flax-sentence-embeddings/st-codesearch-distilroberta-base'

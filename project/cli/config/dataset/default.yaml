@@ -1,0 +1,6 @@
+# @package dataset
+_target_: project.data.common.base_data_module.DataModule
+cfg:
+  # torch data-loader specific arguments
+  batch_size: ${training.batch_size}
+  num_workers: ${training.num_workers}

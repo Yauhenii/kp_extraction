@@ -1,0 +1,9 @@
+# @package task
+defaults:
+  - baselines/default
+_target_: project.models.baselines.triplet_model.TripletModel
+
+cfg:
+  margin: 5
+  threshold: 0.5
+  distance_fnc: "euclidean"
