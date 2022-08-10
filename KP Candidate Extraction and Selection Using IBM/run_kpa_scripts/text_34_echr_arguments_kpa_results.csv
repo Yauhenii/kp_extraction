@@ -1,0 +1,317 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,"(cf.,
+e.g., Eur.",0.0,34#91,0,5,0,17,4,0.2975003123283386
+none,"(cf., e.g., Eur.",0.0,34#72,0,4,0,16,4,0.2975003123283386
+none,"(cf., e.g., Eur.",0.0,34#96,0,5,0,16,4,0.2975003123283386
+none,"10148/82, Dec. 14.3.85, D.R.",0.0,34#82,3,5,124,152,8,0.3424278497695923
+none,"110, p. 14, para.",0.0,34#1,4,6,88,105,4,0.31998202204704285
+none,"11123/84, Dec. 9.12.87, D.R.",0.0,34#44,4,6,173,201,8,0.3459571599960327
+none,"121-A, p. 32-33, para.",0.0,34#96,3,5,93,115,6,0.33332493901252747
+none,"12763/87,
+Dec. 14.7.88, D.R.",0.0,34#25,2,4,143,172,8,0.3358743190765381
+none,"13 above,
+the Commission considers that domestic remedies have not been.",0.0,34#79,1,3,53,126,11,0.3537011742591858
+none,"13 above,
+the Commission considers that domestic remedies have not been.",0.0,34#102,1,7,53,126,11,0.3537011742591858
+none,"14451/88, Dec.
+2.7.93, not published).",0.0,34#80,4,5,196,235,8,0.5474924445152283
+none,"198,
+p. 12, para.",0.0,34#53,2,4,77,95,4,0.2982114255428314
+none,"1990 Act and was, accordingly, made in accordance with the law.",0.0,34#29,1,2,67,130,11,0.4185827970504761
+none,"1991, whereas the present application was lodged on 16 November 1992,
+i.e.",0.0,34#45,2,4,139,214,13,0.36579129099845886
+none,"20 March 1991, Series A no.",0.0,34#104,2,6,60,87,6,0.255391001701355
+none,"200, p. 18, para.",0.0,34#3,3,5,73,90,4,0.31014132499694824
+none,"21608/93, Dec. 22.2.95,
+not published).",0.0,34#71,4,5,200,240,8,0.5243744850158691
+none,"23 September 1994, Series A no.",0.0,34#27,2,5,47,78,6,0.253938764333725
+none,25-1) of the.,0.0,34#103,2,6,53,66,4,0.29172879457473755
+none,26) of the Convention.,0.0,34#87,4,5,218,240,4,0.36742886900901794
+none,27-3) of the Convention.,0.0,34#11,4,5,125,149,5,0.3639058768749237
+none,27-3) of the Convention.,0.0,34#102,6,7,225,249,5,0.3639058768749237
+none,"31, p. 21, para.",0.0,34#24,6,8,251,267,4,0.3113586902618408
+none,6-1) to apply to the proceedings in question it must.,0.0,34#97,3,7,151,204,11,0.3694075644016266
+none,6-2) of the.,0.0,34#22,2,5,54,66,4,0.2818075716495514
+none,73 of the Social Services Act the third and the fourth applicant had.,0.0,34#57,2,5,85,154,13,0.3382599353790283
+none,"7987/77, Dec. 13.12.79, D.R.",0.0,34#94,9,12,455,483,8,0.33168748021125793
+none,8) may include at least the ties between near relatives.,0.0,34#24,2,8,82,138,10,0.3972771465778351
+none,"8) of the Convention, cannot find any.",0.0,34#88,2,5,91,129,8,0.29541078209877014
+none,"8-1) can reasonably be regarded as ""necessary in a democratic.",0.0,34#76,4,9,143,205,11,0.42380091547966003
+none,8-2) of that provision in the interests.,0.0,34#31,7,9,231,271,8,0.3036838173866272
+none,8-2) of that provision in the interests.,0.0,34#42,7,9,231,271,8,0.3036838173866272
+none,8-2)) the Commission first recalls that the.,0.0,34#68,2,6,87,131,8,0.2725919485092163
+none,8-2)of that provision in.,0.0,34#76,7,9,252,277,5,0.2896284759044647
+none,"Accordingly, the Commission will have regard to them when examining the.",0.0,34#9,0,4,0,72,11,0.32034820318222046
+none,Administrative Court of Appeal examined the first applicant's criticism.,0.0,34#61,2,5,75,147,9,0.44352641701698303
+none,Administrative Court ordered the second applicant's placement in public.,0.0,34#18,3,5,150,222,9,0.39170360565185547
+none,Administrative Court the other applicants gave reason to believe that.,0.0,34#38,1,4,29,99,10,0.37967193126678467
+none,As for the question.,0.0,34#73,0,7,0,20,4,0.3656904995441437
+none,Commission is further aware that this provision has been considered by.,0.0,34#71,1,5,6,77,11,0.31503716111183167
+none,Convention imposes an obligation on the Contracting States not to.,0.0,34#103,3,6,68,134,10,0.45488134026527405
+none,Convention it may only deal with a complaint within a period of six.,0.0,34#17,2,4,64,132,13,0.39676740765571594
+none,Convention it may only deal with the matter within a period of six.,0.0,34#43,2,4,64,131,13,0.3328517973423004
+none,"Court H.R.,
+Kruslin judgment of 24 April 1990, Series A no.",0.0,34#72,1,4,17,77,12,0.35347995162010193
+none,"Court H.R., Cardot.",0.0,34#3,1,5,12,31,4,0.3227938115596771
+none,"Court H.R., Hokkanen judgment of.",0.0,34#27,1,5,12,45,6,0.30344340205192566
+none,"Court H.R., Klaas judgment of 22 September 1993,
+Series A no.",0.0,34#2,1,5,6,68,12,0.37203752994537354
+none,"Court H.R., Marckx.",0.0,34#24,4,8,191,210,4,0.31703490018844604
+none,"Court H.R., Olsson judgment of 24 March 1988, Series A no.",0.0,34#32,2,6,11,69,12,0.36754199862480164
+none,"Court H.R., Stanford judgment of 23 February 1994, Series.",0.0,34#91,1,5,18,76,10,0.3940854072570801
+none,"Court H.R., Unterpertinger.",0.0,34#1,2,6,16,43,4,0.35873329639434814
+none,"Court H.R., Vernillo judgment of 20 February 1991, Series A no.",0.0,34#53,1,4,13,76,12,0.34824806451797485
+none,"Court H.R., W v. the United Kingdom.",0.0,34#96,1,5,17,53,8,0.3640049397945404
+none,"However,
+the existence of ""family life"" will depend on a number of factors and.",0.0,34#25,0,4,0,80,14,0.5721525549888611
+none,In so far as the complaint has been lodged by the third and the.,0.0,34#97,0,7,0,64,14,0.29608353972435
+none,In the above circumstances the Commission finds that it has not.,0.0,34#83,0,2,0,64,11,0.37164807319641113
+none,In the light of the above and having regard to the State's margin.,0.0,34#41,0,5,0,66,13,0.35970357060432434
+none,In the light of the.,0.0,34#55,0,4,0,20,5,0.3040684163570404
+none,In the present case that the Commission finds that the first.,0.0,34#5,0,3,0,61,11,0.28498122096061707
+none,In these circumstances the first applicant had access to a court and.,0.0,34#62,0,4,0,69,12,0.3932349681854248
+none,In this respect the Convention must be interpreted as guaranteeing.,0.0,34#101,0,3,0,67,10,0.4930914342403412
+none,It cannot confine itself to considering.,0.0,34#35,0,3,0,40,7,0.3772132098674774
+none,It flows from the very essence.,0.0,34#100,0,3,0,31,6,0.4061838984489441
+none,It follows that these.,0.0,34#11,0,5,0,22,4,0.3369382321834564
+none,It further considered that implementation of.,0.0,34#40,0,5,0,45,6,0.3723463714122772
+none,It has therefore not been shown that domestic remedies have.,0.0,34#89,0,2,0,60,10,0.5879899859428406
+none,It reiterates that the.,0.0,34#54,0,5,0,23,4,0.3083561062812805
+none,Leave to appeal was.,0.0,34#51,0,2,0,20,4,0.3147355020046234
+none,Limiting its examination of the fairness of the proceedings to.,0.0,34#8,0,4,0,63,10,0.34304380416870117
+none,"Moreover, the Commission finds no.",0.0,34#7,0,3,0,34,5,0.28509071469306946
+none,"Moreover, up to his.",0.0,34#28,0,4,0,20,4,0.32973673939704895
+none,No such action has been brought.,0.0,34#81,0,1,0,32,6,0.46511584520339966
+none,Recalling its considerations in para.,0.0,34#75,0,8,0,37,5,0.311838835477829
+none,Recalling its reasoning with regard to complaint no.,0.0,34#79,0,3,0,52,8,0.31054696440696716
+none,Recalling its reasoning with regard to complaint no.,0.0,34#102,0,7,0,52,8,0.31054696440696716
+none,Regard must also be.,0.0,34#33,0,2,0,20,4,0.3316103518009186
+none,Social Council could reasonably find it necessary to order and maintain.,0.0,34#75,6,8,332,404,11,0.575166642665863
+none,Social Council may decide how the public care is to be implemented.,0.0,34#70,1,2,65,132,12,0.40575116872787476
+none,Special arrangements have apparently been made.,0.0,34#74,0,2,0,47,6,0.42473646998405457
+none,Swedish law the third and the fourth applicant have no right of access.,0.0,34#98,1,3,8,79,13,0.4142811894416809
+none,The Commission cannot find that the second applicant's placement.,0.0,34#47,0,4,0,65,10,0.348176509141922
+none,The Commission considers that the access restrictions now at.,0.0,34#67,0,3,0,61,9,0.3160131573677063
+none,The Commission observes that the refusal at issue dates back to.,0.0,34#21,0,2,0,64,11,0.34174734354019165
+none,The Commission observes that the second applicant was transferred.,0.0,34#45,0,4,0,66,9,0.3522850275039673
+none,"The Commission recalls that ""family life"" within the meaning of.",0.0,34#24,0,8,0,64,10,0.28908878564834595
+none,The Commission recalls that the placement order was based on the.,0.0,34#29,0,2,0,65,11,0.3124431073665619
+none,The Commission's review is not limited to.,0.0,34#34,0,2,0,42,7,0.34181296825408936
+none,The Commission's task is to.,0.0,34#92,0,2,0,28,5,0.3381877839565277
+none,The applicant's request was examined by the Social Council in.,0.0,34#48,0,2,0,62,10,0.35782578587532043
+none,"The application,
+however, was lodged with the Commission on 16 November 1992.",0.0,34#86,0,1,0,78,12,0.39010223746299744
+none,The first and the second applicant complain that the first.,0.0,34#16,0,3,0,59,10,0.28325363993644714
+none,"The present application, however, was lodged on 16 November 1992,
+that is more than six months later.",0.0,34#19,0,1,0,102,17,0.42264047265052795
+none,The second applicant is the child of the first applicant in his.,0.0,34#26,0,3,0,64,12,0.3965851366519928
+none,"They did not, however, avail themselves of this.",0.0,34#58,0,2,0,48,8,0.39525771141052246
+none,"a ""family"" ipso jure",0.0,34#26,2,3,139,159,4,0.40941423177719116
+none,above criteria and having regard to the particular circumstances of the.,0.0,34#55,1,4,22,94,11,0.32611504197120667
+none,above-cited Article 8 (Art.,0.0,34#88,1,5,63,90,5,0.3159908950328827
+none,applicant has been allowed to spend one weekend a month in the home of.,0.0,34#73,3,7,163,234,14,0.39482367038726807
+none,applicant has been based on relevant and sufficient reasons and that.,0.0,34#41,2,5,142,211,11,0.4289291501045227
+none,"applicant has not shown that complaints 1(a) to (g), (i) to (n) and (p).",0.0,34#5,1,3,63,135,14,0.3545433282852173
+none,applicant started attending elementary school.,0.0,34#85,3,4,204,250,5,0.3682778477668762
+none,applicant was denied a fair trial in this respect.,0.0,34#13,1,2,55,105,9,0.453299880027771
+none,applicant was kept in public care.,0.0,34#14,1,2,35,69,6,0.38525041937828064
+none,applicant was prohibited from taking the second applicant home on his.,0.0,34#16,1,3,61,131,11,0.37171778082847595
+none,applicants' objections to the therapy provided as well as the third and.,0.0,34#40,3,5,189,261,12,0.3815332353115082
+none,ascertain whether the proceedings in their entirety were fair,0.0,34#92,1,2,30,91,9,0.39316561818122864
+none,assess whether his public care should be implemented somewhere else.,0.0,34#61,4,5,221,289,10,0.37981274724006653
+none,been shown that domestic remedies have been exhausted.,0.0,34#83,1,2,66,120,8,0.5284231901168823
+none,before the competent domestic organs,0.0,34#4,2,3,105,141,5,0.32025864720344543
+none,being allowed to spend another weekend a month in the home of his.,0.0,34#73,5,7,307,373,13,0.3609289228916168
+none,by making a request to hear another expert.,0.0,34#8,3,4,211,254,8,0.46515020728111267
+none,care were to be revoked.,0.0,34#38,3,4,172,196,5,0.3352448046207428
+none,claiming the restoration of the money withdrawn (cf.,0.0,34#80,2,5,139,191,8,0.2895843982696533
+none,complaints must be rejected for non-exhaustion of domestic remedies.,0.0,34#11,1,5,24,92,10,0.6857203841209412
+none,"concerning, for instance, grandparents (see No.",0.0,34#71,3,5,152,199,6,0.3139955401420593
+none,confers upon the applicant a right of a procedural nature.,0.0,34#99,1,4,21,79,10,0.5071261525154114
+none,"covered by written law, the ""law"" is the enactment in force as the.",0.0,34#69,1,3,14,81,13,0.3354353904724121
+none,disclose the existence of any special circumstance which might have.,0.0,34#66,1,5,54,122,10,0.3966309726238251
+none,disclose the existence of any special circumstance which might have.,0.0,34#90,1,5,53,121,10,0.3966309726238251
+none,distinguishable from the substantive rights set out under Section I of.,0.0,34#99,2,4,81,152,11,0.42122727632522583
+none,evidence that the first applicant has requested access to the notes.,0.0,34#88,3,5,131,199,11,0.43435683846473694
+none,exhausting the domestic remedies at his disposal.,0.0,34#7,2,3,173,222,7,0.37233948707580566
+none,exhausting the domestic remedy at their disposal.,0.0,34#84,3,4,222,271,7,0.32584431767463684
+none,"exist (see, e.g., No.",0.0,34#44,3,6,151,172,5,0.3169094920158386
+none,first applicant and the prosecution.,0.0,34#12,2,3,104,140,5,0.32395294308662415
+none,"first be ascertained whether there was a dispute over a ""right"" which.",0.0,34#97,4,7,206,276,12,0.35694587230682373
+none,"following criteria: the complexity of the case, the conduct of the.",0.0,34#54,3,5,162,229,11,0.33406949043273926
+none,"fourth applicant's ""family life"".",0.0,34#67,2,3,137,170,4,0.3291601836681366
+none,"fourth applicant, the Commission recalls that in order for Article 6.
+para.",0.0,34#97,1,7,66,142,12,0.3039931058883667
+none,"from the first ""family home"" to his present ""family home"" on 25 July.",0.0,34#45,1,4,68,137,13,0.3334996700286865
+none,had to the margin of appreciation left to the Contracting States,0.0,34#33,1,2,22,86,11,0.3090553879737854
+none,have not therefore exhausted the remedies available to them under.,0.0,34#65,1,3,17,83,10,0.34388619661331177
+none,hearings thus lasted less than one and a half year.,0.0,34#52,1,2,60,111,10,0.3813866972923279
+none,"home"" and having regard to the State's margin of appreciation, the.",0.0,34#75,3,8,122,189,11,0.2997521162033081
+none,in respect of these complaints.,0.0,34#6,2,3,83,114,5,0.3969290554523468
+none,"in that, as a result, the second.",0.0,34#14,0,2,0,33,7,0.2941202223300934
+none,interfere with the right of the individual effectively to present and.,0.0,34#103,4,6,136,206,11,0.5145293474197388
+none,issue amounted - and amount - to an interference with the third and the.,0.0,34#67,1,3,63,135,12,0.35505354404449463
+none,"its Protocols, for instance in that a judgment has no legal.",0.0,34#94,5,12,307,367,11,0.4068695604801178
+none,"judgment of 13 June 1979, Series A no.",0.0,34#24,5,8,212,250,8,0.2750106751918793
+none,"judgment of 19 March 1991, Series A no.",0.0,34#3,2,5,33,72,8,0.3224162459373474
+none,"judgment of 24 November 1986, Series A no.",0.0,34#1,3,6,45,87,8,0.2936999797821045
+none,"judgment of 8 July 1987, Series A no.",0.0,34#96,2,5,55,92,8,0.28232020139694214
+none,light of the circumstances of each case and having regard to the.,0.0,34#54,2,5,95,160,12,0.3514307737350464
+none,marriage to S. The first and the second applicant therefore constitute.,0.0,34#26,1,3,66,137,11,0.30983439087867737
+none,might have interrupted or suspended the running of that period.,0.0,34#20,2,3,111,174,10,0.47497591376304626
+none,might have interrupted or suspended the running of that period.,0.0,34#46,2,3,111,174,10,0.47497591376304626
+none,months from the date on which the final decision was taken.,0.0,34#17,3,4,134,193,11,0.45137521624565125
+none,months from the date on which the final decision was taken.,0.0,34#43,3,4,133,192,11,0.45137521624565125
+none,more than six months later.,0.0,34#45,3,4,215,242,5,0.36240354180336
+none,moreover be able to foresee its consequences for him.,0.0,34#68,5,6,343,396,9,0.32279327511787415
+none,normally not competent to deal with a complaint alleging that errors.,0.0,34#94,1,12,20,89,11,0.5301363468170166
+none,not therefore exhausted the remedies available to him under Swedish law.,0.0,34#6,1,3,9,81,11,0.3418530821800232
+none,"notes, in particular, that in its judgment of 15 September 1993 the.",0.0,34#61,1,5,5,73,12,0.3021984398365021
+none,"object of a complaint is not a decision, but an ongoing situation, the.",0.0,34#44,1,6,9,80,13,0.4488183856010437
+none,of any of the rights and freedoms set out in the Convention or one of.,0.0,34#94,4,12,235,305,15,0.43993616104125977
+none,of any special circumstances which might have interrupted or suspended.,0.0,34#87,1,5,74,145,10,0.40441980957984924
+none,of appreciation the Commission finds that the public care of the second.,0.0,34#41,1,5,68,140,12,0.263162225484848
+none,"of international law, from exhausting the domestic remedies at their.",0.0,34#66,3,5,195,264,10,0.34616318345069885
+none,"of international law, from exhausting the domestic remedy at their.",0.0,34#90,3,5,194,261,10,0.30558493733406067
+none,of such a violation.,0.0,34#15,1,2,37,57,4,0.4218660593032837
+none,of the case as a whole.,0.0,34#35,2,3,115,138,6,0.38634541630744934
+none,"of the conditions in the second applicant's ""family home"" in order to.",0.0,34#61,3,5,149,219,12,0.31487327814102173
+none,of the second applicant.,0.0,34#31,8,9,273,297,4,0.3624556064605713
+none,of the second applicant.,0.0,34#42,8,9,273,297,4,0.3624556064605713
+none,of this right that it must be open to individuals to complain of.,0.0,34#100,1,3,33,98,13,0.3770124316215515
+none,"on the particular circumstances of each case (cf., e.g., No.",0.0,34#25,1,4,82,142,11,0.32671308517456055
+none,parties and that of the authorities dealing with the case,0.0,34#54,4,5,231,288,10,0.39361855387687683
+none,placement in public care the third and the fourth applicant were.,0.0,34#28,1,4,22,87,11,0.3464142680168152
+none,"present case the Commission notes, in particular, the expert evidence.",0.0,34#37,1,4,9,79,10,0.34091615676879883
+none,"provision, as valid at the relevant time, the Commission observes that.",0.0,34#85,1,4,61,132,11,0.33938294649124146
+none,"pursuance of the above aims, the Commission observes that the second.",0.0,34#73,2,7,92,161,11,0.3144945800304413
+none,pursue his application before the Commission.,0.0,34#103,5,6,208,253,6,0.376654714345932
+none,reasonableness of the length of proceedings must be assessed in the.,0.0,34#54,1,5,25,93,11,0.37337425351142883
+none,"reasonably be regarded as ""necessary in a democratic society"" within.",0.0,34#31,4,9,131,200,10,0.4528971314430237
+none,"reasonably be regarded as ""necessary in a democratic society"" within.",0.0,34#42,4,9,131,200,10,0.4528971314430237
+none,recalls that where doubts exist as to the effectiveness of a remedy.,0.0,34#82,1,5,17,85,12,0.44094350934028625
+none,"regards the necessity of the public care as implemented in a ""family.",0.0,34#75,2,8,51,120,12,0.344482958316803
+none,"relates to the quality of the law in question and implies, inter alia,
+that the law should be accessible to the person concerned, who must.",0.0,34#68,4,6,201,341,25,0.38805699348449707
+none,"release from his pre-trial detention,",0.0,34#16,2,3,133,170,6,0.3846268951892853
+none,"remedies have been exhausted, according to the generally recognised.",0.0,34#95,3,5,135,203,9,0.46174484491348267
+none,rights which are practical and effective as opposed to theoretical and.,0.0,34#101,1,3,69,140,11,0.44925910234451294
+none,"second applicant's ""health or morals"" as well as his ""rights and.",0.0,34#30,2,4,75,140,11,0.3369843065738678
+none,significantly involved in the everyday upbringing of the second.,0.0,34#28,2,4,89,153,9,0.3357216417789459
+none,six months' period starts at the time when the situation ceases to.,0.0,34#44,2,6,82,149,12,0.41617098450660706
+none,"special circumstance which might have absolved this applicant,
+according to the generally recognised rules of international law, from.",0.0,34#7,1,3,36,171,18,0.3707571029663086
+none,"submitted by the second applicant's present therapist, recommending.",0.0,34#37,2,4,81,149,8,0.3562244474887848
+none,"such as grandparents and grandchildren (e.g., Eur.",0.0,34#24,3,8,140,190,8,0.36760368943214417
+none,that he availed himself of his right to challenge Ms. Ekberg's report.,0.0,34#8,2,4,139,209,12,0.4501166045665741
+none,"that remedy must be tried (e.g., No.",0.0,34#82,2,5,87,123,8,0.3105792701244354
+none,that the prohibition complained of was issued on 28 January 1991 and.,0.0,34#18,1,5,14,83,12,0.3095189034938812
+none,that the therapy should continue.,0.0,34#37,3,4,151,184,5,0.3640705943107605
+none,"that there was in this respect a lack of ""equality of arms"" between the.",0.0,34#12,1,3,30,102,14,0.38353732228279114
+none,the Convention it may only deal with a complaint after all domestic.,0.0,34#95,2,5,65,133,12,0.31019771099090576
+none,the Convention or under its Protocols.,0.0,34#99,3,4,154,192,6,0.4049969017505646
+none,the Swedish courts could reasonably find it necessary to maintain his.,0.0,34#41,3,5,213,283,11,0.4029726982116699
+none,"the above-mentioned Olsson judgment, p. 32, para.",0.0,34#36,3,5,122,171,8,0.3282095789909363
+none,the fourth applicant's belief that the first applicant was innocent.,0.0,34#40,4,5,263,331,10,0.3556939959526062
+none,the interests of the second applicant.,0.0,34#76,8,9,279,317,6,0.41764551401138306
+none,the meaning of para.,0.0,34#31,5,9,202,222,4,0.2971374988555908
+none,the meaning of para.,0.0,34#42,5,9,202,222,4,0.2971374988555908
+none,the public care in the third and the fourth applicant's home could lead.,0.0,34#40,1,5,47,119,13,0.40975844860076904
+none,the relevant decisions in isolation but must look at them in the light.,0.0,34#35,1,3,42,113,13,0.4511428773403168
+none,the running of the six month period provided for in Article 26.,0.0,34#87,2,5,147,210,12,0.33274030685424805
+none,the situation complained of ceased to exist in 1991 when the second.,0.0,34#85,2,4,134,202,12,0.3225257992744446
+none,"the third and the fourth applicant, his paternal grandparents, while.",0.0,34#73,4,7,236,305,10,0.30660197138786316
+none,therefore apply in their case.,0.0,34#78,2,3,30,60,5,0.34269386529922485
+none,therefore have been made at least in substance in the proceedings.,0.0,34#4,1,3,37,103,11,0.33045104146003723
+none,they have the benefit of hearing witnesses and assessing their.,0.0,34#93,2,4,118,181,10,0.5360883474349976
+none,they would discontinue this therapy if the second applicant's public.,0.0,34#38,2,4,101,170,10,0.43192508816719055
+none,"to a conflict of interests jeopardising the care, given the other.",0.0,34#40,2,5,121,187,11,0.5332799553871155
+none,to the second applicant.,0.0,34#98,2,3,81,105,4,0.36241835355758667
+In examining whether this interference is justified under para.,In examining whether this interference is justified under para.,1.0,34#68,0,6,0,63,9,0.3882089853286743
+In examining whether this interference is justified under para.,Examining the complaint under Article 6 para.,0.9997063279151917,34#22,0,5,0,45,7,0.3059510588645935
+In examining whether this interference is justified under para.,the applicants' rights under Article 8 para.,0.9996902942657471,34#31,1,9,67,111,7,0.3236548602581024
+In examining whether this interference is justified under para.,the applicants' rights under Article 8 para.,0.9996902942657471,34#42,1,9,67,111,7,0.3236548602581024
+In examining whether this interference is justified under para.,under Article 27 para.,0.9996683597564697,34#11,2,5,94,116,4,0.31588155031204224
+In examining whether this interference is justified under para.,"to justify the interference at issue are ""relevant and sufficient"".",0.9996577501296997,34#36,1,5,48,115,10,0.5689396858215332
+In examining whether this interference is justified under para.,"society"" within the meaning of para.",0.9996032118797302,34#76,5,9,207,243,6,0.3121693432331085
+In examining whether this interference is justified under para.,facts under Article 6 para.,0.9995918869972229,34#9,1,4,74,101,5,0.3062216341495514
+In examining whether this interference is justified under para.,the third and the fourth applicant's rights under Article 8 para.,0.999523401260376,34#76,1,9,67,132,11,0.32020023465156555
+In examining whether this interference is justified under para.,The Commission notes that under Section 11 of the 1990 Act the.,0.9995187520980835,34#70,0,2,0,63,12,0.3252914845943451
+In examining whether this interference is justified under para.,The Commission recalls that under Article 26 (Art.,0.9995054006576538,34#17,0,4,0,50,8,0.2838858366012573
+In examining whether this interference is justified under para.,The Commission recalls that under Article 26 (Art.,0.9995054006576538,34#43,0,4,0,50,8,0.2838858366012573
+In examining whether this interference is justified under para.,rules under international law.,0.9994149208068848,34#95,4,5,205,235,4,0.4279094338417053
+In examining whether this interference is justified under para.,"whether the interference was ""necessary in a democratic society"" in.",0.9992320537567139,34#73,1,7,22,90,10,0.3565943241119385
+In examining whether this interference is justified under para.,No separate issue arises under Article 13 (Art.,0.9992138147354126,34#63,0,2,0,47,8,0.321006715297699
+In examining whether this interference is justified under para.,"to have a ""right"" under domestic law.",0.9991324543952942,34#77,1,2,48,85,7,0.4392801821231842
+In examining whether this interference is justified under para.,The Commission also recalls that under Article 26 (Art.,0.9981297850608826,34#95,0,5,0,55,9,0.2902396321296692
+In examining whether this interference is justified under para.,interference furthermore had the legitimate aims of protecting the.,0.9975691437721252,34#30,1,4,6,73,9,0.4831685423851013
+In examining whether this interference is justified under para.,The Commission recalls that Article 25 para.,0.9967976212501526,34#103,0,6,0,44,7,0.2617262899875641
+In examining whether this interference is justified under para.,"that this provision applies, the Commission observes that under Section.",0.9941026568412781,34#57,1,5,11,83,10,0.3837595582008362
+In examining whether this interference is justified under para.,"in the ""family home"" and the related access restrictions amount to a.
+deprivation of his liberty within the meaning of Article 5 (Art.",0.9926342368125916,34#47,1,4,67,202,23,0.37062129378318787
+In examining whether this interference is justified under para.,justification and thereby violates a party's right to receive a fair.,0.989326000213623,34#94,6,12,369,438,11,0.5680104494094849
+In examining whether this interference is justified under para.,No further issue arises under Article 13 (Art.,0.986255407333374,34#59,0,3,0,46,8,0.33038753271102905
+In examining whether this interference is justified under para.,"ascertaining whether the State has exercised its discretion reasonably,
+carefully and in good faith.",0.9844449758529663,34#34,1,2,44,145,14,0.4633866846561432
+In examining whether this interference is justified under para.,"requirement that the interference be ""in accordance with the law"".",0.9822068214416504,34#68,3,6,133,199,10,0.38293933868408203
+In examining whether this interference is justified under para.,"2.
+of Article 8 (Art.",0.9796766638755798,34#68,1,6,64,86,5,0.2755681276321411
+In examining whether this interference is justified under para.,It follows that this complaint must also be rejected under.,0.967969536781311,34#102,3,7,139,198,10,0.3453444242477417
+In examining whether this interference is justified under para.,"Furthermore, an examination of the.",0.9372885823249817,34#20,0,3,0,35,5,0.31171709299087524
+In examining whether this interference is justified under para.,"Furthermore, an examination of the.",0.9372885823249817,34#46,0,3,0,35,5,0.31171709299087524
+The Commission finds this complaint.,The Commission finds this complaint.,1.0,34#23,0,2,0,36,5,0.34811931848526
+The Commission finds this complaint.,"Accordingly, the Commission concludes that the interference with.",0.9996988773345947,34#31,0,9,0,65,8,0.30933189392089844
+The Commission finds this complaint.,"Accordingly, the Commission concludes that the interference with.",0.9996988773345947,34#42,0,9,0,65,8,0.30933189392089844
+The Commission finds this complaint.,"Accordingly, the Commission concludes that the interference with.",0.9996988773345947,34#76,0,9,0,65,8,0.30933189392089844
+The Commission finds this complaint.,A complaint to the Commission must.,0.9996941089630127,34#4,0,3,0,35,6,0.3373715579509735
+The Commission finds this complaint.,alleged infringements of it in the proceedings before the Commission.,0.9995538592338562,34#100,2,3,100,169,10,0.37533271312713623
+The Commission finds this complaint.,The Commission considers that this complaint could be raised in.,0.9995006322860718,34#80,0,5,0,64,10,0.33055180311203003
+The Commission finds this complaint.,"The Commission, examining this complaint in the light of the.",0.9985471367835999,34#88,0,5,0,61,10,0.30823811888694763
+The Commission finds this complaint.,"the first applicant's complaints 1 (h) and (o), the Commission observes.",0.9980667233467102,34#8,1,4,65,137,11,0.30427443981170654
+The Commission finds this complaint.,Commission considers that also the access restrictions now complained.,0.9965614676475525,34#75,4,8,191,261,9,0.30544188618659973
+The Commission finds this complaint.,it considers that such errors might have involved a possible violation.,0.9727481007575989,34#94,3,12,162,233,11,0.7256516218185425
+The Commission finds this complaint.,"case the Commission cannot find that this length exceeded a ""reasonable.",0.9260315895080566,34#55,2,4,96,168,12,0.31844308972358704
+The court proceedings involving three courts and two oral.,The court proceedings involving three courts and two oral.,1.0,34#52,0,2,0,58,9,0.3345424234867096
+The court proceedings involving three courts and two oral.,"in September 1993, also after an oral hearing.",0.9996529817581177,34#50,2,3,78,124,8,0.40932923555374146
+The court proceedings involving three courts and two oral.,Court was decided upon in May 1993 following an oral hearing.,0.9995976090431213,34#49,1,2,54,115,11,0.4361337125301361
+The court proceedings involving three courts and two oral.,competent courts have interpreted it,0.9995831847190857,34#69,2,3,83,119,5,0.41878145933151245
+The court proceedings involving three courts and two oral.,"of law and fact have been committed by domestic courts, except where.",0.9943215847015381,34#94,2,12,91,160,12,0.4257885217666626
+The court proceedings involving three courts and two oral.,were raised at least in substance before the domestic courts.,0.9932801127433777,34#5,2,3,137,198,10,0.3808095455169678
+The court proceedings involving three courts and two oral.,Swedish courts as constituting the legal basis for access restrictions.,0.9899221062660217,34#71,2,5,79,150,10,0.4002406597137451
+The court proceedings involving three courts and two oral.,"domestic courts to assess the evidence before them, in particular since.",0.9797877669334412,34#93,1,4,44,116,11,0.36962518095970154
+The court proceedings involving three courts and two oral.,civil proceedings instituted by the first applicant for the purpose of.,0.968052327632904,34#80,1,5,66,137,11,0.33752351999282837
+"Thus, they cannot, on arguable grounds, claim.","Thus, they cannot, on arguable grounds, claim.",1.0,34#77,0,2,0,46,8,0.4329178035259247
+"Thus, they cannot, on arguable grounds, claim.","can be said, at least on arguable grounds, to be recognised under.",0.9997023940086365,34#97,5,7,278,344,12,0.3251960575580597
+"Thus, they cannot, on arguable grounds, claim.",challenged the access restrictions at issue by appealing against the.,0.9897159934043884,34#64,1,3,66,135,10,0.3579004406929016
+"Thus, they cannot, on arguable grounds, claim.",It must determine whether the reasons adduced.,0.9742270112037659,34#36,0,5,0,46,7,0.47639718651771545
+"Thus, they cannot, on arguable grounds, claim.",Leaving aside the question of Sweden's reservation to this.,0.9595062136650085,34#85,0,4,0,59,9,0.33606427907943726
+"Thus, they cannot, on arguable grounds, claim.",a right to challenge the Social Council's refusal before the.,0.941381573677063,34#57,3,5,156,217,10,0.3348526656627655
+"Thus, they cannot, on arguable grounds, claim.","special circumstance which might have absolved the applicants,
+according to the generally recognised rules of international law, from.",0.9060778021812439,34#84,2,4,85,220,18,0.3776853084564209
+"Moreover, an examination of this complaint does not.","Moreover, an examination of this complaint does not.",1.0,34#66,0,5,0,52,8,0.37759992480278015
+"Moreover, an examination of this complaint does not.","Moreover, an examination of the complaint does not.",0.9995916485786438,34#90,0,5,0,51,8,0.35913577675819397
+"Moreover, an examination of this complaint does not.",examination of the complaint does not disclose the existence of any.,0.9993684887886047,34#84,1,4,15,83,11,0.38196125626564026
+"Moreover, an examination of this complaint does not.","Furthermore, an examination of the case does not disclose the existence.",0.9993175268173218,34#87,0,5,0,72,11,0.4184185862541199
+"Moreover, an examination of this complaint does not.",that it cannot examine whether or not the first applicant was guilty.,0.9459437131881714,34#10,1,3,13,82,13,0.4033382534980774
+The Court took this into account when.,The Court took this into account when.,1.0,34#39,0,2,0,38,7,0.3722866475582123
+The Court took this into account when.,"became obsolete at the latest on 20 June 1991, when the County.",0.9909874796867371,34#18,2,5,85,148,12,0.371256023645401
+The Court took this into account when.,refused by decision of the Supreme Administrative Court on 26 May 1994.,0.9908031225204468,34#51,1,2,22,93,12,0.36901769042015076
+The Court took this into account when.,"Court H.R., Cruz Varas and Others judgment of.",0.9558566808700562,34#104,1,6,12,58,9,0.30230334401130676
+The Court took this into account when.,of have been based on relevant and sufficient reasons and that the.,0.9231482148170471,34#75,5,8,263,330,12,0.32724830508232117
+There is thus no indication.,There is thus no indication.,1.0,34#12,0,3,0,28,5,0.4005369544029236
+There is thus no indication.,The Commission finds no indication that the first applicant has.,0.9989155530929565,34#64,0,3,0,64,10,0.4065687954425812
+There is thus no indication.,"In conclusion, there is no indication that the first.",0.9986904263496399,34#13,0,2,0,53,9,0.32415035367012024
+There is thus no indication.,case does not disclose the existence of any special circumstances which.,0.9009336829185486,34#20,1,3,37,109,11,0.31542354822158813
+There is thus no indication.,case does not disclose the existence of any special circumstances which.,0.9009336829185486,34#46,1,3,37,109,11,0.31542354822158813
+The Commission finds no appearance.,The Commission finds no appearance.,1.0,34#15,0,2,0,35,5,0.3449440896511078
+The Commission finds no appearance.,there is no appearance of a violation of Article 6 (Art.,0.9996926784515381,34#62,1,4,71,127,11,0.41336318850517273
+The Commission finds no appearance.,"Accordingly, there is no appearance of a violation of Article 6.
+para.",0.9996755123138428,34#56,0,3,0,71,12,0.46334898471832275
+The Commission finds no appearance.,"Convention, the Commission finds no appearance of a violation of these.",0.9996751546859741,34#22,3,5,68,139,11,0.4034261405467987
+The applicant's appeal to the County Administrative.,The applicant's appeal to the County Administrative.,1.0,34#49,0,2,0,52,7,0.3331559896469116
+The applicant's appeal to the County Administrative.,Social Council's care plan to the administrative courts.,0.9996936321258545,34#64,2,3,137,193,8,0.2841567099094391
+The applicant's appeal to the County Administrative.,further appeal to the Administrative Court of Appeal was decided upon.,0.9996916055679321,34#50,1,3,6,76,11,0.42662814259529114
+The applicant's appeal to the County Administrative.,"However, before the County.",0.9984052777290344,34#38,0,4,0,27,4,0.3033587634563446
+"As a general rule, however, it is for the.","As a general rule, however, it is for the.",1.0,34#93,0,4,0,42,9,0.3453015983104706
+"As a general rule, however, it is for the.","absolved the applicants, according to the generally recognised rules.",0.9995896220207214,34#66,2,5,124,193,9,0.4313676953315735
+"As a general rule, however, it is for the.","absolved the applicants, according to the generally recognised rules.",0.9995896220207214,34#90,2,5,123,192,9,0.4313676953315735
