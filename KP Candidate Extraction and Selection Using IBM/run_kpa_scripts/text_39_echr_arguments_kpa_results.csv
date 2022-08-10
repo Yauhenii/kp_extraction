@@ -1,0 +1,46 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,"6) of the Convention enshrines this principle, and.",0.0,39#13,3,6,173,224,8,0.3922024369239807
+none,6-2) of the Convention.,0.0,39#14,6,7,300,323,5,0.3593005836009979
+none,"England and Wales and that in Northern Ireland, based as it was solely.",0.0,39#6,1,4,57,128,13,0.42574840784072876
+none,"In the present case,
+there was a formidable case against the applicant which called for.",0.0,39#2,0,3,0,89,15,0.3724672198295593
+none,"Ireland, all detained persons, including those detained under.",0.0,39#8,2,5,130,192,8,0.3318292796611786
+none,It considers that the applicant's complaints raise serious.,0.0,39#9,0,3,0,59,8,0.46400436758995056
+none,The applicant also submits that the drawing of an incriminating.,0.0,39#14,0,7,0,64,10,0.3193245232105255
+none,"The applicant submits that the 1988 Order, which permits.",0.0,39#11,0,4,0,57,9,0.30290207266807556
+none,The burden of proof remained throughout on the.,0.0,39#3,0,2,0,47,8,0.3402233421802521
+none,The difference in this respect between the position in.,0.0,39#6,0,4,0,55,9,0.3112102746963501
+none,The very strong inferences drawn by the trial judge.,0.0,39#12,0,2,0,52,9,0.3417235016822815
+none,any stage while a person arrested under prevention of terrorism.,0.0,39#7,3,5,161,225,10,0.37030601501464844
+none,disadvantage the applicant in the conduct of his defence and,0.0,39#4,2,3,131,191,10,0.3445381224155426
+none,evidence from the applicant if there was an innocent explanation for.,0.0,39#2,1,3,91,160,11,0.34464535117149353
+none,"fact that in England and Wales, contrary to the practice in Northern.",0.0,39#8,1,5,59,128,12,0.3377704918384552
+none,failure to give evidence infringes his right to a fair trial.,0.0,39#13,5,6,293,354,11,0.768293023109436
+none,"for 48 hours, the Government contend that this delay did not.",0.0,39#4,1,3,68,129,11,0.35359427332878113
+none,in Article 6 para.,0.0,39#14,4,7,273,291,4,0.3230723738670349
+none,in the applicant's case played a crucial role in his conviction.,0.0,39#12,1,2,54,118,11,0.5111305117607117
+none,inference from the failure of an accused person to give evidence has.,0.0,39#14,1,7,66,135,12,0.47065088152885437
+none,inferences to be drawn from the failure of an accused to answer police.,0.0,39#11,1,4,59,130,13,0.5059664845466614
+none,"law that an accused person cannot be required to incriminate himself,
+that Article 6 (Art.",0.0,39#13,2,6,81,172,16,0.3474486470222473
+none,manifestly inconsistent with the presumption of innocence guaranteed.,0.0,39#14,3,7,202,271,8,0.5862274169921875
+none,on the geographical location at which a person was arrested and.,0.0,39#6,2,4,130,194,11,0.4574865400791168
+none,"prevention of terrorism legislation, are permitted to have their legal.",0.0,39#8,3,5,194,265,10,0.34572362899780273
+none,"provisions is being interviewed,",0.0,39#7,4,5,227,259,4,0.335787832736969
+none,"questions or to give evidence, and the reliance placed upon it by the.",0.0,39#11,2,4,132,202,13,0.3448985815048218
+none,representative present during the police interviews.,0.0,39#8,4,5,267,319,6,0.3175714612007141
+none,should depend on an examination of the merits.,0.0,39#9,2,3,135,181,8,0.34681156277656555
+none,submitted that it is a generally recognised principle of international.,0.0,39#13,1,6,8,79,10,0.3610753118991852
+none,that the drawing of an incriminating inference from an accused's.,0.0,39#13,4,6,226,291,10,0.3703700006008148
+none,the effect of placing the burden of proof on an accused and is.,0.0,39#14,2,7,137,200,13,0.45269256830215454
+none,"the police have similar powers to delay access in England and Wales,",0.0,39#5,1,2,8,76,12,0.4821943938732147
+none,to be present during his interviews with the police,0.0,39#10,1,2,68,119,9,0.3538176715373993
+none,to draw such inferences as common sense dictates.,0.0,39#1,1,2,44,93,8,0.5339525938034058
+none,"trial judge in the instant case,",0.0,39#11,3,4,204,236,6,0.2824152410030365
+As regards the denial of access by the applicant to his solicitor.,As regards the denial of access by the applicant to his solicitor.,1.0,39#4,0,3,0,66,12,0.36874115467071533
+As regards the denial of access by the applicant to his solicitor.,As regards the refusal of permission to the applicant's solicitor.,0.9996901750564575,39#10,0,2,0,66,10,0.39560770988464355
+As regards the denial of access by the applicant to his solicitor.,of access by the applicant to his solicitor for 48 hours and the.,0.9994686245918274,39#7,1,5,22,87,13,0.3383946716785431
+The Order merely allows the trier of fact.,The Order merely allows the trier of fact.,1.0,39#1,0,2,0,42,8,0.38710716366767883
+The Order merely allows the trier of fact.,"issues of fact and law under the Convention, the determination of which.",0.99930739402771,39#9,1,3,61,133,12,0.40896669030189514
+"The discriminatory element derives, inter alia, from the.","The discriminatory element derives, inter alia, from the.",1.0,39#8,0,5,0,57,8,0.4226416051387787
+"The discriminatory element derives, inter alia, from the.",discriminatory practice of not permitting solicitors to be present at.,0.9724067449569702,39#7,2,5,89,159,10,0.41486290097236633
