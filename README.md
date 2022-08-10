@@ -26,10 +26,10 @@ We consider the premises as arguments, and extract the KPs from them.
 Example of an argument: 
 ``The Commission considers that this indicates an issue falling within the scope of freedom of expression''.
 
-The dataset input json file is in the ``Dataset'' folder.
+The dataset input json file is in the ``Dataset'' directory.
 
 **The Methods**:
-All the code and the output files are in the folders of the different methods:
+All the code and the output files are in the directories of the different methods:
 1) KP Candidate Extraction and Selection Using IBM
 2) Clustering and Summarization
-3) PageRank and Clustering
+3) PageRank
