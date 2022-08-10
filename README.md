@@ -1,6 +1,8 @@
-**From Judgement's Premises Towards Key Points(KPs): KPs Extraction Methods for the Legal Domain**
+**Title** <br />
+From Judgement's Premises Towards Key Points(KPs): KPs Extraction Methods for the Legal Domain
 
-**Authors**: Oren Sultan (The Technical University of Munich, The Hebrew University of Jerusalem), <br />
+**Authors**: <br />
+Oren Sultan (The Technical University of Munich, The Hebrew University of Jerusalem), <br />
 Yauheni Mardan (The Technical University of Munich), <br />
 Rayen Dhahri (The Technical University of Munich).
 
