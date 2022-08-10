@@ -1,0 +1,140 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,"""Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.""",0.0,22#47,0,1,0,151,26,0.49202486872673035
+none,"""the reasons for her arrest were sufficiently brought to her attention during her interview"".",0.0,22#128,2,3,364,457,14,0.4406164288520813
+none,(c) circumstances preventing disclosure of information.,0.0,22#139,1,2,106,161,6,0.4886177182197571
+none,"(see also the Klass and Others v. Germany judgment of 6 September 1978, Series A no.",0.0,22#18,0,3,0,84,16,0.4583485424518585
+none,"(see the Brannigan and McBride v. the United Kingdom judgment of 26 May 1993, Series A no.",0.0,22#95,0,3,0,90,17,0.3482145667076111
+none,"(see the James and Others judgment, loc.",0.0,22#107,0,3,0,40,7,0.35901638865470886
+none,"(see the above-mentioned Klass and Others judgment, p. 23, para.",0.0,22#85,0,2,0,64,11,0.3534604012966156
+none,"(see, among other authorities, the X v. the United Kingdom judgment of 5 November 1981, Series A no.",0.0,22#37,0,9,0,100,18,0.33343425393104553
+none,"(see, inter alia, the Fox, Campbell and Hartley v. the United Kingdom judgment of 30 August 1990, Series A no.",0.0,22#2,0,5,0,110,20,0.36467111110687256
+none,"(see, mutatis mutandis, the above-mentioned Klass and Others judgment, p. 28, para.",0.0,22#84,0,2,0,83,13,0.3313327431678772
+none,"1) to secure everyone within their jurisdiction, inter alia, the right to liberty and the right to respect for private life.",0.0,22#117,2,3,380,504,21,0.5616946816444397
+none,"122, and the authorities cited there).",0.0,22#102,2,3,357,395,6,0.44492432475090027
+none,"145-B, p. 27, para.",0.0,22#2,3,5,227,246,5,0.31933876872062683
+none,"182, p. 15, para.",0.0,22#2,1,5,111,128,4,0.3183085322380066
+none,"19) of the Convention, to ensure the observance of the engagement undertaken by the States Parties under Article 1 (art.",0.0,22#117,1,3,259,379,20,0.3419361114501953
+none,"215, p. 39, para.",0.0,22#102,1,3,339,356,4,0.3071838915348053
+none,"258-B, p. 57, para.",0.0,22#95,1,3,91,110,5,0.3123956620693207
+none,"269, p. 17, para.",0.0,22#37,6,9,246,263,4,0.3042176365852356
+none,"28, p. 23, para.",0.0,22#18,1,3,85,101,4,0.31013569235801697
+none,"29, in relation to Article 3 (art.",0.0,22#37,7,9,264,298,7,0.303549587726593
+none,"5) to arrest suspects for questioning, free from effective control by the domestic courts or by the Convention supervisory institutions, whenever they choose to assert that terrorism is involved (ibid., p. 23, para.",0.0,22#19,1,3,105,320,33,0.43067875504493713
+none,5-1) and the interference in the private and family life of Mrs Murray (and her family).,0.0,22#146,2,3,104,192,17,0.3432598114013672
+none,"5-1-c) does not presuppose that the [investigating authorities] should have obtained sufficient evidence to bring charges, either at the point of arrest or while [the arrested person is] in custody.",0.0,22#10,2,3,188,386,32,0.41875097155570984
+none,5-1-c) have been fulfilled in the circumstances of the particular case.,0.0,22#116,2,3,173,244,13,0.3862208127975464
+none,5-1-c) is to further the criminal investigation by way of confirming or dispelling the concrete suspicion grounding the arrest.,0.0,22#12,2,3,94,221,21,0.40995416045188904
+none,"5-1-c) since ""the existence of such a purpose must be considered independently of its achievement"" (see the above-mentioned Brogan and Others judgment, pp.",0.0,22#40,2,5,141,296,26,0.3816051781177521
+none,"5-1-e); and the Klaas v. Germany judgment of 22 September 1993, Series A no.",0.0,22#37,5,9,169,245,16,0.36558055877685547
+none,"5-2) (see the above-mentioned Fox, Campbell and Hartley judgment, p. 19, para.",0.0,22#53,2,4,134,212,14,0.37887850403785706
+none,"5-2) is to enable the arrested person to assess the lawfulness of the arrest and take steps to challenge it, if need be.",0.0,22#145,4,5,298,418,24,0.41417551040649414
+none,"5-2) of the Convention, which provides:",0.0,22#46,2,3,72,111,7,0.3529320955276489
+none,5-4) at any stage of the proceedings before the Convention institutions.,0.0,22#99,2,3,83,155,12,0.3289787769317627
+none,8) (see paragraphs 83 to 95 above).,0.0,22#105,2,3,197,232,7,0.5510599613189697
+none,8) in this connection have already been found in the present judgment to have been compatible with the requirements of Article 8 (art.,0.0,22#105,1,3,62,196,23,0.41332465410232544
+none,8-2) for the State to take effective measures for the prevention of terrorist crimes,0.0,22#77,2,3,224,308,15,0.47272220253944397
+none,A certain margin of appreciation in deciding what measures to take both in general and in particular cases should be left to the national authorities.,0.0,22#75,0,1,0,150,25,0.5467836260795593
+none,A usual consequence of the implementation of Article 5 para.,0.0,22#145,0,5,0,60,10,0.3446049690246582
+none,"According to the Government, on the other hand, it was apparent from the trial evidence",0.0,22#50,0,1,0,87,15,0.39644044637680054
+none,"As she disclosed in her evidence to the High Court, she had visited the USA and had contacts with her brothers there (see paragraph 19 above).",0.0,22#32,0,1,0,142,26,0.4536789655685425
+none,"As to the present case, the terrorist campaign in Northern Ireland, the carnage it has caused over the years and the active engagement of the Provisional IRA in that campaign are established beyond doubt.",0.0,22#20,0,1,0,204,34,0.48955008387565613
+none,"At the hearing the Government's representative also identified three other kinds of more specific ""objective evidence"", namely the conviction of the first applicant's brothers, her contacts with them and her visits to America.",0.0,22#142,0,1,0,226,33,0.4785878360271454
+none,"Corporal D. did however remember that questions had been asked about money and about America and the trial judge found her to be a ""transparently honest witness"" (see paragraphs 21 and 24 above).",0.0,22#58,0,1,0,195,33,0.454519659280777
+none,Corporal D. did not have a precise recollection as to the content of the questions put to Mrs Murray.,0.0,22#56,0,1,0,101,19,0.35192030668258667
+none,"Elements of the latter kind, he claimed, had been provided which should be capable of so satisfying an objective observer.",0.0,22#138,0,1,0,122,20,0.46368810534477234
+none,"English translation by W. and E. Muir from the German original Der Prozess - Penguin reprint 1953, p. 18.",0.0,22#134,0,1,0,105,18,0.376274436712265
+none,"For the Commission, the Government's explanation in the present case was not materially distinguishable from that provided in the case of Fox, Campbell and Hartley.",0.0,22#8,1,2,242,406,25,0.4340008795261383
+none,"Furthermore, the ""conditions of extreme tension"", as Lord Griffiths put it in his speech in the House of Lords, under which such arrests in Northern Ireland have to be carried out must be recognised.",0.0,22#81,0,1,0,199,34,0.48986151814460754
+none,"He cited:
+(a) the honest belief of the arresting officer,
+(b) the briefing by a superior officer, and.",0.0,22#139,0,2,0,104,18,0.36423587799072266
+none,In the exercise of this power of review the Court must ascertain whether the essence of the safeguard afforded by this provision of the Convention has been secured.,0.0,22#118,0,1,0,164,28,0.5284357070922852
+none,In the view of the majority (paragraph 77 of the judgment) this guarantee was satisfied because.,0.0,22#128,0,3,0,96,16,0.433249831199646
+none,In this connection it is not for the Court to substitute for the assessment of the national authorities its own assessment of what might be the best policy in the field of investigation of terrorist crime,0.0,22#74,0,1,0,204,36,0.40576785802841187
+none,"In this connection too, the Court does not find that the means employed were disproportionate to the aim pursued.",0.0,22#90,0,1,0,113,19,0.4915340542793274
+none,"It can be assumed that, had these suspicions been confirmed, charges would have been laid and she would have been brought before the competent legal authority.",0.0,22#42,0,1,0,159,26,0.5492523908615112
+none,"It remains to be determined whether they were necessary in a democratic society and, in particular, whether the means employed were proportionate to the legitimate aim pursued.",0.0,22#73,0,1,0,176,27,0.5855560302734375
+none,It was not contested that the impugned measures interfered with the applicants' exercise of their right to respect for their private and family life and their home.,0.0,22#91,0,1,0,164,27,0.5736724138259888
+none,"It was suggested by the representative of the Government that ""primary facts"", obtained from a reliable confidential source, which cannot be disclosed must be differentiated from ""something other than the primary facts or information"".",0.0,22#137,0,1,0,235,35,0.4525028169155121
+none,Mrs Murray was neither charged nor brought before a court but was released after an interview lasting a little longer than one hour (see paragraph 14 above).,0.0,22#39,0,1,0,157,27,0.5022004246711731
+none,"Once that is done, the further information that she was being charged with a given offence can, within a reasonable time, follow.",0.0,22#125,0,1,0,129,22,0.4711534380912781
+none,"Provided that the purpose of the arrest and detention is genuinely to bring the person before the competent legal authority, the mechanics of how this is to be achieved will not be decisive.",0.0,22#44,0,1,0,190,33,0.4973025619983673
+none,Similar conclusions apply to the taking and retention of a photograph of Mrs Murray at the Army centre (see paragraphs 13 and 14 above).,0.0,22#88,0,1,0,136,24,0.43783581256866455
+none,Some weeks before her arrest two of Mrs Murray's brothers had been convicted in the USA of offences connected with purchase of arms for the Provisional IRA (see paragraph 10 above).,0.0,22#31,0,1,0,181,31,0.484885573387146
+none,"Such evidence may have been unobtainable or, in view of the nature of the suspected offences, impossible to produce in court without endangering the lives of others"" (loc.",0.0,22#11,0,3,0,171,28,0.5417342782020569
+none,"The Court does not find that, in relation to any of the applicants, the means employed by the authorities in this regard were disproportionate to the aim pursued.",0.0,22#89,0,1,0,162,28,0.4577735662460327
+none,The Court is accordingly prepared to attach some credence to the respondent Government's declaration concerning the existence of reliable but confidential information grounding the suspicion against Mrs Murray.,0.0,22#23,0,1,0,210,28,0.4660038352012634
+none,The Court sees no reason to depart from the general approach it has adopted in previous cases of a similar nature.,0.0,22#1,0,1,0,114,21,0.5185340642929077
+none,The arrest and detention of the first applicant must therefore be taken to have been effected for the purpose specified in paragraph 1 (c) (art.,0.0,22#45,0,2,0,144,25,0.4549730718135834
+none,The length of the deprivation of liberty at risk may also be material to the level of suspicion required.,0.0,22#14,0,1,0,105,19,0.5162279605865479
+none,"The offences of which her brothers were convicted were ones that implied collaboration with ""trustworthy"" persons residing in Northern Ireland.",0.0,22#33,0,1,0,143,20,0.48238903284072876
+none,"The only direct information she was given was the formal formula of arrest pronounced by Corporal D.
+74.",0.0,22#49,0,2,0,105,18,0.3908824324607849
+none,"The problem with these facts, as I see it, is that none of them per se may be held against the first applicant to incriminate her.",0.0,22#143,0,1,0,130,26,0.5192350745201111
+none,These circumstances may give rise only to a bona fide suspicion of such complicity.,0.0,22#109,0,1,0,83,14,0.7376216650009155
+none,These measures undoubtedly pursued the legitimate aim of the prevention of crime.,0.0,22#93,0,1,0,81,12,0.5671393275260925
+none,These two factors affect the fair balance that is to be struck between the exercise by the individual of the right guaranteed to him or her under paragraph 1 of Article 8 (art.,0.0,22#77,0,3,0,176,33,0.46605291962623596
+none,"They rather resemble the incrimination of a person's status, in this case the first applicant's kinship relationship.",0.0,22#144,0,1,0,117,17,0.48887497186660767
+none,"This phase cannot be skipped, ignored or disregarded, especially when, as in this case, the person arrested is not charged with an offence.",0.0,22#127,0,1,0,139,24,0.5780644416809082
+none,What counts for the purpose of compliance with Convention obligations is the substance rather than the form.,0.0,22#43,0,1,0,108,17,0.5460894703865051
+none,"You are under arrest certainly, more than that I do not know.""",0.0,22#133,0,1,0,62,12,0.3161456286907196
+none,because I do not see a necessary link between the breach of the requirements of Article 5 para.,0.0,22#146,0,3,0,95,18,0.404177188873291
+none,"cit., p. 29, para.",0.0,22#11,1,3,172,190,4,0.2836480438709259
+none,"notably in the Brogan and Others and Fox, Campbell and Hartley judgments (loc.",0.0,22#96,0,6,0,78,13,0.3644469082355499
+In my opinion this condition of reasonableness was not fulfilled.,In my opinion this condition of reasonableness was not fulfilled.,1.0,22#136,0,1,0,65,10,0.3984467089176178
+In my opinion this condition of reasonableness was not fulfilled.,"In my view all three are capable of satisfying the condition of an honest or genuine suspicion, but do not constitute ""at least some facts or information"" on which a reasonable suspicion could be based.",0.9996775388717651,22#140,0,1,0,202,35,0.4860687851905823
+In my opinion this condition of reasonableness was not fulfilled.,"As in the case of Fox, Campbell and Hartley, the Government's explanation did not meet the minimum standards set by Article 5 para.",0.9996640682220459,22#5,0,3,0,131,23,0.47968611121177673
+In my opinion this condition of reasonableness was not fulfilled.,"They do not give rise to a ""reasonable"" suspicion such as to justify the serious measures taken against the applicants unless they are connected with other facts in direct relation to the offence.",0.9996604919433594,22#110,0,1,0,196,33,0.58659827709198
+In my opinion this condition of reasonableness was not fulfilled.,These are legitimate considerations which go to explain and justify the manner in which the entry into and search of the applicants' home were carried out.,0.9994865655899048,22#83,0,1,0,155,26,0.5353729128837585
+In my opinion this condition of reasonableness was not fulfilled.,"The European Court, for its part, has found on the evidence before it that this suspicion could be regarded as reasonable for the purposes of sub-paragraph (c) Article 5 para.",0.9994369149208069,22#79,0,3,0,175,31,0.4326448440551758
+In my opinion this condition of reasonableness was not fulfilled.,She did not accept that the reason advanced for non-disclosure was a genuine or valid one.,0.9993813037872314,22#6,0,1,0,90,17,0.4502049386501312
+In my opinion this condition of reasonableness was not fulfilled.,She in her turn pointed to circumstances said to cast doubt on the reasonableness of the suspicion.,0.9990863800048828,22#7,0,1,0,99,17,0.47266408801078796
+In my opinion this condition of reasonableness was not fulfilled.,At the very least the honesty and bona fides of a suspicion constitute one indispensable element of its reasonableness.,0.99896240234375,22#27,0,1,0,119,19,0.48682016134262085
+In my opinion this condition of reasonableness was not fulfilled.,I  regard it as an entirely reasonable precaution that all the occupants of the house should be asked to assemble in one room.,0.9989472031593323,22#82,1,3,260,386,23,0.4637220501899719
+In my opinion this condition of reasonableness was not fulfilled.,5-1-c) for judging the reasonableness of her arrest and detention.,0.998007595539093,22#5,2,3,144,210,12,0.3740370571613312
+In my opinion this condition of reasonableness was not fulfilled.,5-2) contains the elementary safeguard that any person arrested should know why he is being deprived of his liberty.,0.9963797926902771,22#114,1,2,115,231,20,0.45662441849708557
+In my opinion this condition of reasonableness was not fulfilled.,In the context of the present case this interval cannot be regarded as falling outside the constraints of time imposed by the notion of promptness in Article 5 para.,0.9945716261863708,22#64,0,3,0,165,30,0.42515847086906433
+In my opinion this condition of reasonableness was not fulfilled.,"The Court's task, as stated by the majority (paragraph 66 of the judgment), is to determine whether the conditions laid down by sub-paragraph (c) of Article 5 para.",0.9919372797012329,22#116,0,3,0,164,29,0.35963305830955505
+In my opinion this condition of reasonableness was not fulfilled.,"Neither honesty of an arresting officer, nor honesty of superior officer, nor the circumstances of a suspected terrorist crime fall into this category.",0.9870718121528625,22#141,0,1,0,151,23,0.5470319986343384
+In my opinion this condition of reasonableness was not fulfilled.,"This, however, must be preceded by the first phase, wherein the arrested person must be informed of the reasons for the arrest.",0.977946937084198,22#126,0,1,0,127,22,0.42745113372802734
+In my opinion this condition of reasonableness was not fulfilled.,The Court therefore finds that the reasons for her arrest were sufficiently brought to her attention during her interview.,0.9778447151184082,22#63,0,1,0,122,19,0.4619356095790863
+In my opinion this condition of reasonableness was not fulfilled.,The remedy available to Mrs Murray would have satisfied these conditions.,0.9757947325706482,22#103,0,1,0,73,11,0.38566815853118896
+The first applicant also alleged a violation of Article 5 para.,The first applicant also alleged a violation of Article 5 para.,1.0,22#46,0,3,0,63,11,0.4550592601299286
+The first applicant also alleged a violation of Article 5 para.,Regarding the alleged violation of Article 5 para.,0.9996449947357178,22#112,0,3,0,50,8,0.3762575685977936
+The first applicant also alleged a violation of Article 5 para.,This provision is an integral part of the scheme of protection afforded by Article 5 (art.,0.999509334564209,22#115,0,4,0,90,16,0.4325851798057556
+The first applicant also alleged a violation of Article 5 para.,"43, in relation to Article 5 para.",0.9992092847824097,22#37,3,9,122,156,7,0.3269933760166168
+The first applicant also alleged a violation of Article 5 para.,"This does not necessarily mean, however, that the purpose of her arrest and detention was not in accordance with Article 5 para.",0.9988654851913452,22#40,0,5,0,128,22,0.4601098597049713
+The first applicant also alleged a violation of Article 5 para.,8) of the Convention is directly linked with the issues under Article 5 para.,0.9987972974777222,22#121,1,4,41,118,14,0.33362704515457153
+The first applicant also alleged a violation of Article 5 para.,The alleged violation of Article 8 (art.,0.9986521601676941,22#121,0,4,0,40,7,0.3466867506504059
+The first applicant also alleged a violation of Article 5 para.,No complaint however was made by the first applicant under Article 5 para.,0.9985055923461914,22#99,0,3,0,74,13,0.3956664800643921
+The first applicant also alleged a violation of Article 5 para.,The object of questioning during detention under sub-paragraph (c) of Article 5 para.,0.9984219074249268,22#12,0,3,0,85,14,0.3462063670158386
+The first applicant also alleged a violation of Article 5 para.,"Under the Convention scheme of protection of the right to liberty and security of person, the lex specialis as regards entitlement to a remedy is paragraph 4 of Article 5 (art.",0.998337984085083,22#97,0,2,0,176,31,0.44714072346687317
+The first applicant also alleged a violation of Article 5 para.,"We would recall, as did the Commission (report, paragraph 75), that in the similar case of Fox, Campbell and Hartley (paragraph 46) the Court found a violation of Article 5 para.",0.998320996761322,22#120,0,3,0,178,31,0.4520670771598816
+The first applicant also alleged a violation of Article 5 para.,"5-5) of the Convention, since Mrs Murray's arrest and detention were in breach of paragraphs 1 and 2 of this Article (art.",0.997498095035553,22#119,2,5,30,152,23,0.3705071210861206
+The first applicant also alleged a violation of Article 5 para.,5-1-c) of the Convention.,0.9926124811172485,22#26,2,3,305,330,6,0.35180434584617615
+The first applicant also alleged a violation of Article 5 para.,5): by virtue of paragraph 2 (art.,0.9843230843544006,22#115,1,4,91,125,7,0.3145591616630554
+The first applicant also alleged a violation of Article 5 para.,"With regard to the level of ""suspicion"", the Court would note firstly that, as was observed in its judgment in the case of Brogan and Others, ""sub-paragraph (c) of Article 5 para.",0.96882563829422,22#10,0,3,0,179,33,0.349854439496994
+The first applicant also alleged a violation of Article 5 para.,5-1) of the Convention.,0.9637971520423889,22#121,3,4,127,150,5,0.35554105043411255
+The first applicant also alleged a violation of Article 5 para.,The matters complained of by Mrs Murray under Article 8 (art.,0.9574815630912781,22#105,0,3,0,61,11,0.2847185432910919
+The first applicant also alleged a violation of Article 5 para.,"This does not mean, however, that the investigating authorities have carte blanche under Article 5 (art.",0.9519979357719421,22#19,0,3,0,104,16,0.34849444031715393
+The impugned measures thus had a basis in domestic law.,The impugned measures thus had a basis in domestic law.,1.0,22#72,0,1,0,55,10,0.41289615631103516
+The impugned measures thus had a basis in domestic law.,since such domestic proceedings as might have been taken in relation to entry and search would have failed because domestic law provided lawful excuse for those actions.,0.9996883869171143,22#100,0,1,0,169,27,0.46666157245635986
+The impugned measures thus had a basis in domestic law.,"The Court discerns no reason, on the material before it, for not concluding that each of the various measures was ""in accordance with the law"", within the meaning of Article 8 para.",0.999686598777771,22#92,0,3,0,181,32,0.3975910246372223
+The impugned measures thus had a basis in domestic law.,The Court of Appeal upheld the legality of the search in the present case (see paragraph 30 above).,0.9996517896652222,22#67,0,1,0,99,18,0.4832667112350464
+The impugned measures thus had a basis in domestic law.,Whether the relevant domestic law as applied to Mrs Murray ensured her a sufficient level of protection of her right to respect for her private life is a substantive issue under Article 8 (art.,0.9996324777603149,22#104,0,2,0,193,34,0.47929805517196655
+The impugned measures thus had a basis in domestic law.,"This bare indication of the legal basis for the arrest, taken on its own, is insufficient for the purposes of Article 5 para.",0.9996178150177002,22#53,0,4,0,125,23,0.43786007165908813
+The impugned measures thus had a basis in domestic law.,13) guarantees the availability of a remedy at national level to enforce the substance of the Convention rights in whatever form they may happen to be secured in the domestic legal order.,0.999546229839325,22#101,1,2,17,204,32,0.4205131232738495
+The impugned measures thus had a basis in domestic law.,It is implicit in the judgments of the national courts that the retention of such details was covered by the same lawful authority derived from section 14 (see paragraph 41 in fine above).,0.9981670379638672,22#70,0,1,0,188,33,0.4918805956840515
+The impugned measures thus had a basis in domestic law.,"28, citing the Brogan and Others v. the United Kingdom judgment of 29 November 1988, Series A no.",0.9909768104553223,22#2,2,5,129,226,18,0.354382187128067
+The impugned measures thus had a basis in domestic law.,The domestic courts held that Mrs Murray was genuinely and honestly suspected of the commission of a terrorist-linked crime (see paragraphs 24 and 28 above).,0.9854480624198914,22#78,0,1,0,157,26,0.47088176012039185
+The impugned measures thus had a basis in domestic law.,"5-2), she was entitled to an enforceable right to compensation in accordance with this provision.",0.9841458201408386,22#119,4,5,163,260,16,0.5728176832199097
+The impugned measures thus had a basis in domestic law.,13) for its part does not go so far as to guarantee Mrs Murray a remedy allowing her to have challenged the content of Northern Ireland law before a national authority,0.9749515652656555,22#106,1,2,17,184,31,0.39274775981903076
+In my opinion this decision reduces the meaning of Article 5 para.,In my opinion this decision reduces the meaning of Article 5 para.,1.0,22#129,0,3,0,66,12,0.4174012243747711
+In my opinion this decision reduces the meaning of Article 5 para.,It is not really possible to sustain this interpretation of Article 5 para.,0.999207079410553,22#131,0,3,0,75,13,0.4517287611961365
+In my opinion this decision reduces the meaning of Article 5 para.,As to Article 5 para.,0.9964338541030884,22#119,0,5,0,21,5,0.33582350611686707
+In my opinion this decision reduces the meaning of Article 5 para.,"In the Fox, Campbell and Hartley judgment (paragraph 40) the Court declared that ""[p]aragraph 2 of Article 5 (art.",0.9903761744499207,22#114,0,2,0,114,19,0.3223375976085663
+In my opinion this decision reduces the meaning of Article 5 para.,8-1) and the necessity under paragraph 2 (art.,0.9589778780937195,22#77,1,3,177,223,9,0.30438438057899475
+In my opinion this decision reduces the meaning of Article 5 para.,5-1-c) (see paragraph 63 above).,0.9456987380981445,22#79,2,3,184,216,7,0.49815279245376587
+In my opinion this decision reduces the meaning of Article 5 para.,"5-2) to such a low level that it is doubtful whether in fact it can, if it is adhered to in this form, have any possible concrete application in the future.",0.9156635403633118,22#129,2,3,75,231,32,0.5185813903808594
+"because of the short duration of the detention,","because of the short duration of the detention,",1.0,22#123,0,1,0,47,8,0.3976000249385834
+"because of the short duration of the detention,","since she had been released rapidly, before any determination of the lawfulness of her detention could have taken place.",0.9862712621688843,22#51,0,1,0,120,19,0.4379656910896301
