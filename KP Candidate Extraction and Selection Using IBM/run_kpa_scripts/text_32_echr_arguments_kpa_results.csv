@@ -1,0 +1,48 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,"""necessary in a democratic society""",0.0,32#15,1,2,58,93,5,0.38400307297706604
+none,"10) of the Convention provides:
+
+ ""1.",0.0,32#1,1,7,17,56,6,0.30130258202552795
+none,10) of the Convention raise complex issues of fact and.,0.0,32#16,2,5,82,137,10,0.4532182812690735
+none,"Contracting States, there is no ground on which the Commission in its.",0.0,32#13,2,5,89,159,12,0.2970512807369232
+none,"In particular, he argues that the criterion.",0.0,32#6,0,4,0,44,7,0.31648489832878113
+none,The Commission considers that the applicant's complaints under.,0.0,32#16,0,5,0,63,8,0.31131553649902344
+none,The Government further submit that the interference was.,0.0,32#15,0,2,0,56,8,0.30106690526008606
+none,They submit that Section 10 of the 1981 Act.,0.0,32#11,0,4,0,44,9,0.2818458676338196
+none,"also not proportionate to the aim,",0.0,32#4,1,2,20,54,6,0.32522356510162354
+none,and foreseeable in its application and consequences.,0.0,32#9,2,3,105,157,7,0.4476989507675171
+none,and impart information and ideas without interference by.,0.0,32#1,5,7,177,234,8,0.4204999506473541
+none,applicant considers that there was no pressing social need for the.,0.0,32#3,1,3,15,82,11,0.3368875980377197
+none,"applicant of up to two years' imprisonment and has cast a.
+disproportionate chilling effect on the free flow of information to the.",0.0,32#8,1,3,38,170,22,0.4456101059913635
+none,"assessment of whether ""the interests of justice"" required disclosure.",0.0,32#12,2,5,111,180,9,0.38278698921203613
+none,consideration to all the competing interests.,0.0,32#12,4,5,252,297,6,0.40401968359947205
+none,flow of information to the press and provides a heavy presumption.,0.0,32#11,2,4,119,185,11,0.4674510061740875
+none,impossible the task of a journalist in assessing whether or not he can.,0.0,32#6,2,4,116,187,13,0.36100059747695923
+none,"indicating that the relevant principle is well-established, accessible.",0.0,32#9,1,3,32,103,9,0.45035144686698914
+none,"law, the determination of which should depend on a full examination of.",0.0,32#16,3,5,139,210,12,0.3574749231338501
+none,"meaning of the second paragraph,",0.0,32#14,2,3,91,123,5,0.30085957050323486
+none,"of the ""interests of justice"" is insufficiently certain and renders.",0.0,32#6,1,4,46,114,10,0.3703884780406952
+none,precision to enable the individual to foresee with reasonable certainty.,0.0,32#5,1,3,73,145,10,0.5599380135536194
+none,public authorities and regardless of frontiers,0.0,32#1,6,7,237,283,6,0.3994239270687103
+none,publication of confidential information in the press and had made no.,0.0,32#7,1,3,63,132,11,0.3228060007095337
+none,since it included the threat to the.,0.0,32#8,0,3,0,36,7,0.3008232116699219
+none,since the law permitting such orders is not formulated with sufficient.,0.0,32#5,0,3,0,71,11,0.32194411754608154
+none,"sources cannot however outweigh all others and, they argue, in the.",0.0,32#12,1,5,42,109,12,0.38394248485565186
+none,supervisory jurisdiction can substitute its own opinion for that of the.,0.0,32#13,3,5,161,233,11,0.40170997381210327
+none,"that having regard to the margin of appreciation, accorded to.",0.0,32#13,1,5,25,87,10,0.30699434876441956
+none,use of alternative means of identifying the source.,0.0,32#7,2,3,134,185,8,0.5648781657218933
+none,when it will be applied.,0.0,32#5,2,3,147,171,5,0.3686511814594269
+for the purpose of protecting the.,for the purpose of protecting the.,1.0,32#10,0,3,0,34,6,0.36125436425209045
+for the purpose of protecting the.,rights of others and for preventing the disclosure of information.,0.9996722936630249,32#10,1,3,36,102,10,0.47979971766471863
+for the purpose of protecting the.,since X Ltd. was already protected by the injunction against.,0.9996716976165771,32#7,0,3,0,61,10,0.3459543287754059
+for the purpose of protecting the.,gives recognition to the high public importance of protecting the free.,0.9995410442352295,32#11,1,4,46,117,11,0.39806053042411804
+for the purpose of protecting the.,The interest of protecting journalistic.,0.9995030164718628,32#12,0,5,0,40,5,0.38677963614463806
+for the purpose of protecting the.,give a source an undertaking not to reveal his identity.,0.9931708574295044,32#6,3,4,189,245,10,0.4503827691078186
+for the purpose of protecting the.,right shall include freedom to hold opinions and to receive.,0.9916201829910278,32#1,4,7,114,174,10,0.5233827233314514
+for the purpose of protecting the.,Everyone has the right to freedom of expression.,0.9522233605384827,32#1,2,7,57,105,8,0.814175546169281
+refer to domestic case-law as.,refer to domestic case-law as.,1.0,32#9,0,3,0,30,6,0.4141315519809723
+refer to domestic case-law as.,"in this particular case, the domestic courts gave full and reasoned.",0.9997034668922424,32#12,3,5,182,250,11,0.40720146894454956
+refer to domestic case-law as.,"however that the interference was ""prescribed by law"" within the.",0.9975323677062988,32#14,1,3,24,89,10,0.33833181858062744
+The applicant contends that the disclosure order breached his.,The applicant contends that the disclosure order breached his.,1.0,32#2,0,2,0,62,9,0.4626050293445587
+The applicant contends that the disclosure order breached his.,"duty of confidentiality to his source and was not ""prescribed by law"",",0.9940659999847412,32#2,1,2,64,134,12,0.44429102540016174
