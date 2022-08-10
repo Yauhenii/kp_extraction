@@ -1,0 +1,70 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,1 and 3 (d) (art.,0.0,27#50,1,4,103,120,5,0.28654053807258606
+none,1 and 3 (d) (art.,0.0,27#96,1,4,103,120,5,0.28654053807258606
+none,1 taken together with Article 6 para.,0.0,27#37,1,4,458,495,7,0.33556067943573
+none,3 (d) of the Convention (art.,0.0,27#37,2,4,496,525,6,0.2823273837566376
+none,"34, and p. 472, para.",0.0,27#32,2,4,227,248,5,0.34211301803588867
+none,"6) against the interests of witnesses protected by other substantive provisions of the Convention (see the Doorson judgment previously cited, p. 470, para.",0.0,27#68,1,3,243,398,23,0.44772687554359436
+none,"6) as set out in the judgment of Kostovski v. the Netherlands (20 November 1989, Series A no.",0.0,27#34,1,3,372,465,18,0.36224067211151123
+none,6) does not guarantee an unlimited right to question witnesses.,0.0,27#67,1,2,16,79,10,0.4109170138835907
+none,6) when measures were taken.,0.0,27#36,1,2,173,201,5,0.40169310569763184
+none,6-1+6-3-d)).,0.0,27#37,3,4,526,538,4,0.37025436758995056
+none,6-3-d) have not been violated in the present case.,0.0,27#50,3,4,131,181,11,0.34130215644836426
+none,"67), the applicable national legislation and case-law and the practice followed by the domestic courts are to some extent relevant also for the Court.",0.0,27#39,1,2,236,386,25,0.45882728695869446
+none,"71) the Court found that an actual threat against the witnesses was not required for the decision to maintain their anonymity to be reasonable, and that previous experience might be relevant.",0.0,27#81,3,4,54,245,31,0.48957186937332153
+none,"71, where a reasonableness test was applied).",0.0,27#80,1,2,244,289,7,0.41351833939552307
+none,"76, in conjunction with pp.",0.0,27#76,4,7,504,531,5,0.2999696731567383
+none,Against this background the Court cannot find that the proceedings taken as a whole were fair.,0.0,27#95,0,1,0,94,17,0.45366159081459045
+none,All communication was via a sound link.,0.0,27#20,0,1,0,39,7,0.645280122756958
+none,"Although their interests - and indeed those of their families - also deserve protection under the Convention, it must be recognised that their position is to some extent different from that of a disinterested witness or a victim.",0.0,27#11,0,1,0,229,36,0.6540166139602661
+none,From the wording of the Doorson judgment it is clear that in that case the Court recognised this primary responsibility of the national court.,0.0,27#78,0,1,0,142,24,0.4123227298259735
+none,"Having regard to the place that the right to a fair administration of justice holds in a democratic society, any measures restricting the rights of the defence should be strictly necessary.",0.0,27#15,0,1,0,189,31,0.557489812374115
+none,However these measures cannot be considered a proper substitute for the possibility of the defence to question the witnesses in their presence and make their own judgment as to their demeanour and reliability.,0.0,27#27,0,1,0,209,34,0.46337074041366577
+none,"However, as noted above, in this matter the domestic case-law and legislation have a relevance of their own.",0.0,27#48,0,1,0,108,19,0.468921422958374
+none,"However, had it been in force, the procedure followed by the Court of Appeal would have been in conformity with the rules thereby introduced.",0.0,27#43,0,1,0,141,24,0.44338563084602356
+none,I cannot discover from the case file that was before the Court whether this possibility was considered at all.,0.0,27#52,0,1,0,110,20,0.4010022282600403
+none,If a less restrictive measure can suffice then that measure should be applied.,0.0,27#16,0,1,0,78,13,0.7059513330459595
+none,"In addition, it is in the nature of things that their duties, particularly in the case of arresting officers, may involve giving evidence in open court.",0.0,27#13,0,1,0,152,26,0.5433979034423828
+none,"In addition, the applicants considered that they had not had sufficient opportunity to challenge and question the police officers.",0.0,27#3,0,1,0,130,19,0.4745355248451233
+none,In the Doorson judgment (loc.,0.0,27#81,0,4,0,29,5,0.30698060989379883
+none,"In the Doorson judgment, in which the criterion of ""decisive extent"" was developed and applied (loc.",0.0,27#76,0,7,0,100,16,0.35673922300338745
+none,"In the absence of any further information, the Court cannot find that the operational needs of the police provide sufficient justification.",0.0,27#94,0,2,0,139,22,0.5472562313079834
+none,In the present case it should also be taken into consideration that some of the witnesses had been wounded while pursuing the robbers.,0.0,27#82,0,1,0,134,23,0.48949530720710754
+none,"In the present case, the police officers in question were in a separate room with the investigating judge, from which the accused and even their counsel were excluded.",0.0,27#19,0,1,0,167,28,0.47046780586242676
+none,"In this respect, too, the Court should recognise that ""as a general rule it is for the national courts to assess the evidence before them"".",0.0,27#75,0,1,0,139,25,0.4544491469860077
+none,It cannot be denied - and indeed it has not been denied - that the possibilities for the defence to interrogate the witnesses were not without limitations.,0.0,27#85,0,1,0,155,26,0.47364532947540283
+none,It should be noted that the explanatory memorandum of,0.0,27#94,1,2,140,193,9,0.35571563243865967
+none,It thus cannot be said that the handicaps under which the defence laboured were counterbalanced by the above procedures.,0.0,27#28,0,1,0,120,20,0.4615734815597534
+none,"It would in their view have been feasible to have the police officers questioned in open court, wearing disguise if need be.",0.0,27#2,0,1,0,124,22,0.46749794483184814
+none,Its decision was based exclusively on the seriousness of the crimes committed,0.0,27#24,0,1,0,77,12,0.4506582021713257
+none,"Moreover, the defence were offered the possibility to challenge the statements and their use as evidence in open court before the Court of Appeal.",0.0,27#72,0,1,0,146,24,0.46878325939178467
+none,"Moreover, the interrogation of the witnesses should in their contention not have taken place before the investigating judge.",0.0,27#1,0,1,0,124,18,0.40483400225639343
+none,"Nor are they always without limitations in normal situations, where the identity of the witnesses is known to the defence.",0.0,27#86,0,1,0,122,20,0.49994948506355286
+none,Nor is the Court persuaded that the Court of Appeal made sufficient effort to assess the threat of reprisals against the police officers or their families.,0.0,27#22,0,1,0,155,26,0.469343364238739
+none,Not all the questions asked by the defence had been answered.,0.0,27#6,0,1,0,61,11,0.3879033029079437
+none,"On the other hand, this was a case of armed robbery and it is understandable that the witnesses - even though they were police officers - should be in fear of reprisals from trigger-happy criminals.",0.0,27#35,0,1,0,198,34,0.5569430589675903
+none,The Act of 1993 was not yet in force when the judgments of the domestic courts in the present case were given.,0.0,27#42,0,1,0,110,22,0.4406437873840332
+none,The Court of Appeal has given reasons for delegating the hearing of the witnesses to the investigating judge.,0.0,27#59,0,1,0,109,18,0.4599512815475464
+none,The Government and the Commission both considered that there had been no violation of Article 6 paras.,0.0,27#96,0,4,0,102,17,0.44121766090393066
+none,The applicants and their counsel were able to hear the interrogation by the investigating judge and to ask questions of their own.,0.0,27#56,0,1,0,130,22,0.49631959199905396
+none,Their shared opinion that the accusations and events were such that fear of violent repercussions was not unsubstantiated cannot be considered unreasonable.,0.0,27#66,0,1,0,156,23,0.6317000389099121
+none,They drew attention to the conditions under which the interrogation of the anonymous witnesses had taken place.,0.0,27#4,0,1,0,111,17,0.4569700360298157
+none,They owe a general duty of obedience to the State's executive authorities and usually have links with the prosecution; for these reasons alone their use as anonymous witnesses should be resorted to only in exceptional circumstances.,0.0,27#12,0,1,0,232,36,0.6236063241958618
+none,This is a borderline case.,0.0,27#33,0,1,0,26,5,0.5213698148727417
+none,"Were a similar situation to arise in the future, it would certainly be desirable for even more attention to be paid to the requirements of Article 6 of the Convention (art.",0.0,27#36,0,2,0,172,31,0.3488469421863556
+none,"cit., p. 21, para.",0.0,27#62,1,3,248,266,4,0.2882173955440521
+none,"cit., p. 471, para.",0.0,27#58,1,3,230,249,4,0.2955232560634613
+none,"cit., p. 472, para.",0.0,27#76,1,7,101,120,4,0.2957541346549988
+none,"cit., p. 472, para.",0.0,27#76,3,7,101,120,4,0.2957541346549988
+none,"implicit in the profession of police officer, that should not mean that the latter has to take unnecessary risks and it certainly does not mean that the lives and safety of his family deserve",0.0,27#90,0,1,0,191,34,0.5131820440292358
+none,would have been no case against them and they would have been acquitted.,0.0,27#92,0,1,0,72,13,0.40051034092903137
+The convictions were not based solely upon the statements of anonymous witnesses.,The convictions were not based solely upon the statements of anonymous witnesses.,1.0,27#73,0,1,0,81,12,0.48688775300979614
+The convictions were not based solely upon the statements of anonymous witnesses.,"That being so the conviction of the applicants was based ""to a decisive extent"" on these anonymous statements.",0.9997052550315857,27#30,0,1,0,110,18,0.4660802483558655
+The convictions were not based solely upon the statements of anonymous witnesses.,"Finally, the applicants claimed that their conviction had been based ""to a decisive extent"" on the evidence given by anonymous witnesses.",0.9996843338012695,27#7,0,1,0,137,21,0.4907347559928894
+The convictions were not based solely upon the statements of anonymous witnesses.,"Moreover, the only evidence relied on by the Court of Appeal which provided positive identification of the applicants as the perpetrators of the crimes were the statements of the anonymous police officers.",0.9996786117553711,27#29,0,1,0,205,32,0.5236910581588745
+The convictions were not based solely upon the statements of anonymous witnesses.,The only evidence relied on by the Court of Appeal positively identifying the applicants had been that given by anonymous police officers.,0.9996484518051147,27#8,0,1,0,138,22,0.6165542602539062
+The convictions were not based solely upon the statements of anonymous witnesses.,"Although these were undoubtedly the core of the evidence, there were also statements by identified witnesses, there was some technical evidence and there was the recording of the telephone conversation.",0.9995297193527222,27#74,0,1,0,202,30,0.4926302134990692
+The convictions were not based solely upon the statements of anonymous witnesses.,"The applicants argued that if the 's-Hertogenbosch Court of Appeal had not relied on the statements of the anonymous police officers, there",0.9994803071022034,27#91,0,1,0,139,23,0.3957250714302063
+The convictions were not based solely upon the statements of anonymous witnesses.,"In addition, in the latter case other evidence providing positive identification of the accused as the perpetrator of the crimes charged was available from sources unrelated to the anonymous witnesses (ibid., pp.",0.9993202686309814,27#32,0,4,0,212,32,0.3919014036655426
+In reaching this conclusion I would stress the following aspects:,In reaching this conclusion I would stress the following aspects:,1.0,27#54,0,1,0,65,10,0.4147479832172394
+In reaching this conclusion I would stress the following aspects:,Consideration of the various issues involved ultimately led me to the conclusion that Article 6 paras.,0.9129101634025574,27#50,0,4,0,102,16,0.3547931909561157
