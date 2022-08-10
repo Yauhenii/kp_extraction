@@ -36,8 +36,8 @@ Example of an argument:
 
 The dataset input json file is in the ``Dataset'' folder.
 
-**The Methods**:
-All the code and the output files are in the folders of the different methods:
+**The Methods**: <br \>
+Each method has its own directory which includes the code and the output files.
 1) KP Candidate Extraction and Selection Using IBM
 2) Clustering and Summarization
 3) PageRank and Clustering
