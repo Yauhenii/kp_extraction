@@ -1,0 +1,27 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,2 of the Federal.,0.0,40#1,1,8,37,54,4,0.33349770307540894
+none,2 of the Federal.,0.0,40#5,1,5,37,54,4,0.33349770307540894
+none,6) of the Convention.,0.0,40#3,3,4,140,161,4,0.3447878956794739
+none,"Constitution, the Government consider that, although the provision.",0.0,40#1,2,8,56,123,8,0.2629505693912506
+none,"It follows that he was not tried or punished again ""for an.",0.0,40#7,0,2,0,59,12,0.34192827343940735
+none,"The Commission finds that the applicant, who was convicted for.",0.0,40#6,0,4,0,63,10,0.3082576096057892
+none,The Government consider that the absence of an oral public and.,0.0,40#3,0,4,0,63,11,0.29818084836006165
+none,The Government point out that any.,0.0,40#2,0,3,0,34,6,0.27293622493743896
+none,They also point out that the applicant did.,0.0,40#4,0,3,0,43,8,0.3825687766075134
+none,ability of the Constitutional Court to refuse to deal with complaints.,0.0,40#1,5,8,265,335,11,0.39740821719169617
+none,against decisions without giving detailed reasons is only a procedural.,0.0,40#1,6,8,337,408,10,0.6550322771072388
+none,complaint lodged with the Constitutional Court against a decision is.,0.0,40#2,1,3,36,105,10,0.3235096335411072
+none,direct hearing is covered by the Austrian reservation to Article 6.,0.0,40#3,1,4,65,132,11,0.3819628059864044
+none,limitation and not a substantive one.,0.0,40#1,7,8,410,447,6,0.47423434257507324
+none,non-acceptance of a constitutional complaint are in any event at.,0.0,40#5,3,5,126,191,11,0.347818523645401
+none,not make a complaint about the absence of a hearing before the.,0.0,40#4,1,3,45,108,12,0.33122220635414124
+none,"offence for which he has already been finally acquitted or convicted"".",0.0,40#7,1,2,61,131,11,0.46139347553253174
+none,provides for non-acceptance of a constitutional complaint on grounds.,0.0,40#1,3,8,125,194,10,0.4419039189815521
+none,"speeding twice in the course of one journey, but over separate.",0.0,40#6,1,4,65,128,11,0.37530994415283203
+none,"stretches of road, was convicted not of one but of two separate.",0.0,40#6,2,4,130,194,12,0.3379828631877899
+none,subject to comprehensive review.,0.0,40#2,2,3,107,139,4,0.45088350772857666
+none,variance with Convention requirements.,0.0,40#5,4,5,193,231,4,0.5041697025299072
+none,"which were not in force in 1958 when the reservation was made, the.",0.0,40#1,4,8,196,263,13,0.30530327558517456
+In connection with Article 144 para.,In connection with Article 144 para.,1.0,40#1,0,8,0,36,6,0.3533729314804077
+In connection with Article 144 para.,In connection with Article 144 para.,1.0,40#5,0,5,0,36,6,0.3533729314804077
+In connection with Article 144 para.,"Constitution, the applicant considers that the enlarged grounds for.",0.982165515422821,40#5,2,5,56,124,9,0.2795395851135254
