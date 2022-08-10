@@ -178,7 +178,8 @@ def main():
         lambda df: df.sample(frac=1, random_state=42).sort_values(by=["counts", "q_score_1", "word_count_1"],
                                                                   ascending=(False, False, True))).reset_index(
         drop=True)
-    print(1)
+
+    top_df.to_csv(r'top_df.csv')
     # filter redundant sentences
 
     FILTER_THRESHOLD = 0.4
@@ -207,5 +208,7 @@ def main():
                                                                   ascending=(False, False, True)).head(N)).reset_index(
         drop=True)
     print(1)
+
+    top_df.to_csv(r'top_filtered_df.csv')
 if __name__ == '__main__':
     main()
