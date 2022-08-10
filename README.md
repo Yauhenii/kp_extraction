@@ -1,3 +1,7 @@
+**From Judgement's Premises Towards Key Points(KPs): KPs Extraction Methods for the Legal Domain**
+
+**Authors**: Oren Sultan (The Technical University of Munich, The Hebrew University of Jerusalem), Yauheni Mardan (The Technical University of Munich) and Rayen Dhahri ((The Technical University of Munich).
+
 **Abstract**:
 
 Key Point Analysis(KPA) is a relatively new task in NLP that combines summarization and classification by extracting argumentative key points (KPs) 
