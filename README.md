@@ -1,4 +1,4 @@
-**Title** <br />
+**Title**: <br />
 From Judgement's Premises Towards Key Points(KPs): KPs Extraction Methods for the Legal Domain
 
 **Authors**: <br />
