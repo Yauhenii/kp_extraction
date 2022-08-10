@@ -1,0 +1,39 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality
+none,"114, and Thynne, Wilson and Gunnell judgment.",0.0,35#4,4,7,69,114,7,0.3629555404186249
+none,"2 March 1987, Series A no.",0.0,35#4,3,7,42,68,6,0.2555030584335327
+none,4 of the Convention requires judicial rather than.,0.0,35#5,3,6,157,207,8,0.37812426686286926
+none,5-4) does not grant an.,0.0,35#3,3,7,66,89,6,0.2985976040363312
+none,"5-4) since the Parole Board,
+save immediately after recall, is unable to order release, the ultimate.",0.0,35#7,3,10,86,188,17,0.32167965173721313
+none,An applicant also has no right to.,0.0,35#7,5,10,227,261,7,0.540837287902832
+none,An applicant also has no right to.,0.0,35#10,0,3,0,34,7,0.540837287902832
+none,"Court H.R., Weeks judgment of.",0.0,35#4,2,7,10,40,6,0.2864914834499359
+none,Her Majesty's Pleasure does not satisfy the.,0.0,35#7,0,10,0,44,7,0.27285823225975037
+none,It is therefore to be regarded as a sentence fixed by law.,0.0,35#1,0,2,0,58,12,0.40578028559684753
+none,It should be assimilated to discretionary life sentences for.,0.0,35#5,0,6,0,61,9,0.4776036739349365
+none,The Commission has taken cognizance of the submissions of the.,0.0,35#7,8,10,373,435,10,0.3514282703399658
+none,adults in respect of which the European Court of Human Rights has held.,0.0,35#5,1,6,63,134,13,0.5256624817848206
+none,an oral hearing before the Board or to call his own witnesses or to.,0.0,35#7,6,10,263,331,14,0.40090611577033997
+none,an oral hearing before the Board or to call his own witnesses or to.,0.0,35#10,1,3,36,104,14,0.40090611577033997
+none,decision resting with the executive.,0.0,35#7,4,10,190,226,5,0.34599044919013977
+none,decision resting with the executive.,0.0,35#9,1,2,99,135,5,0.34599044919013977
+none,determination of which should depend on an examination on the merits.,0.0,35#8,2,3,78,147,11,0.40178877115249634
+none,entitlement to a prisoner serving a mandatory life sentence to.,0.0,35#3,4,7,91,154,10,0.3583785891532898
+none,"executive control after the expiry of the punitive or ""tariff"" part of.",0.0,35#5,4,6,209,280,12,0.29494014382362366
+none,expiry of his tariff,0.0,35#3,6,7,230,250,4,0.2996940314769745
+none,in respect of the gravity of the offence concerned.,0.0,35#1,1,2,60,111,9,0.39285629987716675
+none,"judgments of the Court, Article 5 para.",0.0,35#3,1,7,18,57,7,0.3135511577129364
+none,mandatory and discretionary life sentences differ in fundamental.,0.0,35#2,1,3,19,84,8,0.4656454622745514
+none,"of 25 October 1990, Series A no.",0.0,35#4,5,7,116,148,7,0.2480892390012741
+none,parties concerning the complaints raised by the applicant.,0.0,35#7,9,10,437,495,8,0.40326136350631714
+none,periodic judicial assessment of the grounds for his detention after the.,0.0,35#3,5,7,156,228,11,0.33205869793891907
+none,question the witnesses against him.,0.0,35#7,7,10,333,368,5,0.3581664264202118
+none,question the witnesses against him.,0.0,35#10,2,3,106,141,5,0.3581664264202118
+none,requirements of Article 5 para.,0.0,35#7,1,10,46,77,5,0.32602208852767944
+none,"respects, both in nature and applicable procedures.",0.0,35#2,2,3,86,137,7,0.4277610182762146
+none,"since the Parole Board,
+save immediately after recall, is unable to order release, the ultimate.",0.0,35#9,0,2,0,97,15,0.35515737533569336
+none,that Article 5 para.,0.0,35#5,2,6,136,156,4,0.27789226174354553
+none,that the complaints raise serious issues of fact and law the.,0.0,35#8,1,3,15,76,11,0.367095947265625
+Since the only justification for his detention is risk.,Since the only justification for his detention is risk.,1.0,35#6,0,2,0,55,9,0.3695475459098816
+Since the only justification for his detention is risk.,"or ""dangerousness"", which is a factor susceptible to change,",0.9993189573287964,35#6,1,2,57,117,9,0.5093088746070862
