@@ -1,5 +1,7 @@
 # SmatchtoPR
 
+Link to the model: https://drive.google.com/drive/folders/1bScJ9ObvBxfQEDjhWBcrd-zoSDRwgnA9?usp=share_link
+
 In order to run the SmatchtoPr for Kp extraction. We need to install the [IBM Debater_api](https://early-access-program.debater.res.ibm.com/) that is used to calculate the argument quality using the following steps
 
 ### Step 1: Install debater API/spacy
