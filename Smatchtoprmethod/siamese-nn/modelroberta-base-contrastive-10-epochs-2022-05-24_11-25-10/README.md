@@ -1,3 +1,5 @@
+You can find pytorch_model.bin here: https://drive.google.com/drive/folders/1bScJ9ObvBxfQEDjhWBcrd-zoSDRwgnA9?usp=sharing
+
 ---
 pipeline_tag: sentence-similarity
 tags:
